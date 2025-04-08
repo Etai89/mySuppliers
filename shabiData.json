@@ -1,0 +1,1822 @@
+[
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%9C%D7%99%D7%9E%D7%95%D7%9F_%D7%A4%D7%A8%D7%A1%D7%99_1_%D7%A7%D7%B4%D7%92_%D7%9C%D7%91%D7%9F-5099.jpg",
+        "name": "לימון פרסי 1 ק״ג לבן",
+        "code": "5099"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%9C%D7%99%D7%9E%D7%95%D7%9F_%D7%A4%D7%A8%D7%A1%D7%99_1_%D7%A7%D7%B4%D7%92_%D7%A9%D7%97%D7%95%D7%A8-5089.jpg",
+        "name": "לימון פרסי 1 ק״ג שחור",
+        "code": "5089"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%A1%D7%95%D7%9B%D7%A8_1%D7%B4%D7%92_%D7%A4%D7%A8%D7%99%D7%9E%D7%95_10%D7%99%D7%97%D7%99%D7%93%D7%95%D7%AA_%D7%91%D7%9E%D7%90%D7%A8%D7%96-101.jpg",
+        "name": "סוכר 1 ק״ג 10 יחידות במארז",
+        "code": "101"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%9E%D7%9C%D7%97_%D7%91%D7%99%D7%A9%D7%95%D7%9C_1_%D7%A7%D7%B4%D7%92_12%D7%99%D7%97%D7%99%D7%93%D7%95%D7%AA_%D7%91%D7%9E%D7%90%D7%A8%D7%96-104.jpg",
+        "name": "מלח בישול 1 ק״ג",
+        "code": "104"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%90%D7%A0%D7%A0%D7%A1_820_%D7%92%D7%A8%D7%9D_%D7%97%D7%AA%D7%95%D7%9A_12_%D7%99%D7%97%D7%99%D7%93%D7%95%D7%AA_%D7%91%D7%9E%D7%90%D7%A8%D7%96-19201.jpg",
+        "name": "אננס 820 גרם חתוך 12 יחידות במארז",
+        "code": "19201"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/a9_%D7%A4%D7%98%D7%A8%D7%99%D7%95%D7%AA_%D7%A9%D7%9C%D7%9E%D7%95%D7%AA-2941.jpg",
+        "name": "פטריות שלמות",
+        "code": "2941"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/a9_%D7%A8%D7%A1%D7%A7_%D7%A2%D7%92%D7%91%D7%A0%D7%99%D7%95%D7%AA_%D7%99%D7%9B%D7%99%D7%9F-217.jpg",
+        "name": "רסק עגבניות יכין",
+        "code": "217"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/a9_%D7%A8%D7%A1%D7%A7_%D7%AA%D7%A4%D7%95%D7%97_%D7%A2%D7%A5_%D7%9C%D7%9C%D7%90_%D7%A1%D7%95%D7%9B%D7%A8-282.jpg",
+        "name": "רסק תפוח עץ ללא סוכר",
+        "code": "282"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/a9_%D7%AA%D7%99%D7%A8%D7%A1_%D7%92%D7%A8%D7%92%D7%99%D7%A8%D7%99%D7%9D_%D7%99%D7%9B%D7%99%D7%9F-2151.jpg",
+        "name": "תירס גרגירים יכין",
+        "code": "2151"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/a9_%D7%AA%D7%99%D7%A8%D7%A1_%D7%92%D7%A8%D7%92%D7%A8%D7%99%D7%9D_%D7%A2%D7%93%D7%9F-2145.jpg",
+        "name": "תירס גרגרים עדן",
+        "code": "2145"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%90%D7%A4%D7%95%D7%A0%D7%94_600_%D7%92%D7%A8%D7%9D_12_%D7%99%D7%97%D7%99%D7%93%D7%95%D7%AA_%D7%91%D7%9E%D7%90%D7%A8%D7%9619203.jpg",
+        "name": "אפונה 600 גרם 12 יחידות במארז",
+        "code": "19203"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%90%D7%A4%D7%95%D7%A0%D7%94_%D7%95%D7%92%D7%96%D7%A8_600_%D7%92%D7%A8%D7%9D_12_%D7%99%D7%97%D7%99%D7%93%D7%95%D7%AA_%D7%91%D7%9E%D7%90%D7%A8%D7%96-19204.jpg",
+        "name": "אפונה וגזר 600 גרם 12 יחידות במארז",
+        "code": "19204"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%90%D7%A8%D7%98%D7%99%D7%A9%D7%95%D7%A7_2.5_%D7%A7%D7%B4%D7%92_%D7%A8%D7%91%D7%A2%D7%99%D7%9D_%D7%91%D7%9E%D7%99%D7%9D-2786.jpg",
+        "name": "ארטישוק 2.5 ק״ג רבעים במים",
+        "code": "2786"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%90%D7%A8%D7%98%D7%99%D7%A9%D7%95%D7%A7_%D7%AA%D7%97%D7%AA%D7%99%D7%95%D7%AA_(a9)-278.jpg",
+        "name": "ארטישוק תחתיות",
+        "code": "278"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%91%D7%A6%D7%9C%D7%A6%D7%9C%D7%99%D7%9D-2920.jpg",
+        "name": "בצלצלים",
+        "code": "2920"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%96%D7%99%D7%AA_10_%D7%A7%D7%B4%D7%92_%D7%A1%D7%A0%D7%98%D7%94_%D7%A2%D7%A0%D7%A7-353.jpg",
+        "name": "זית 10 ק״ג סנטה ענק",
+        "code": "353"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%96%D7%99%D7%AA_12-15_%D7%99%D7%A8%D7%95%D7%A7_9_%D7%9C%D7%99%D7%98%D7%A8-315.jpg",
+        "name": "זית 12-15 ירוק 9 ליטר",
+        "code": "315"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%96%D7%99%D7%AA_%D7%93%D7%9E%D7%95%D7%99_%D7%98%D7%A1%D7%95%D7%A1_5_%D7%A7%D7%B4%D7%92-356.jpg",
+        "name": "זית דמוי טסוס 5 ק״ג",
+        "code": "356"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%96%D7%99%D7%AA_%D7%97%D7%A8%D7%95%D7%96%D7%99%D7%AA_9_%D7%9C%D7%99%D7%98%D7%A8_%D7%A9%D7%97%D7%95%D7%A8_%D7%94%D7%9E%D7%A8%D7%9B%D7%96-347.jpg",
+        "name": "זית חרוזית 9 ליטר שחור המרכז",
+        "code": "347"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%96%D7%99%D7%AA_%D7%97%D7%A8%D7%95%D7%96%D7%99%D7%AA_%D7%A9%D7%97%D7%95%D7%A8_9_%D7%9C%D7%99%D7%98%D7%A8_%D7%9E%D7%95%D7%98%D7%95%D7%9C%D7%94-3221.jpg",
+        "name": "זית חרוזית שחור 9 ליטר מוטולה",
+        "code": "3221"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%96%D7%99%D7%AA_%D7%98%D7%A1%D7%95%D7%A1_13_%D7%A7%D7%B4%D7%92_%D7%90%D7%9E%D7%99%D7%AA%D7%99-314.jpg",
+        "name": "זית טסוס 13 ק״ג אמיתי",
+        "code": "314"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%96%D7%99%D7%AA_%D7%99%D7%A8%D7%95%D7%A7_%D7%97%D7%A8%D7%95%D7%96%D7%99%D7%AA_9_%D7%9C%D7%99%D7%98%D7%A8_%D7%9E%D7%95%D7%98%D7%95%D7%9C%D7%94-3222.jpg",
+        "name": "זית ירוק חרוזית 9 ליטר מוטולה",
+        "code": "3222"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%96%D7%99%D7%AA_%D7%99%D7%A8%D7%95%D7%A7_%D7%A9%D7%9C%D7%9D_9_%D7%9C%D7%99%D7%98%D7%A8_%D7%A4.%D7%97%D7%9F-311.jpg",
+        "name": "זית ירוק שלם 9 ליטר פ.חן",
+        "code": "311"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%96%D7%99%D7%AA_%D7%A1%D7%95%D7%A8%D7%99_9_%D7%9C%D7%99%D7%98%D7%A8_%D7%94%D7%9E%D7%A8%D7%9B%D7%96-3431.jpg",
+        "name": "זית סורי 9 ליטר המרכז",
+        "code": "3431"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%96%D7%99%D7%AA_%D7%A1%D7%95%D7%A8%D7%99_10_%D7%A7%D7%B4%D7%92_%D7%94%D7%9E%D7%A8%D7%9B%D7%96-3270.jpg",
+        "name": "זית סורי 10 ק״ג המרכז",
+        "code": "3270"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%96%D7%99%D7%AA_%D7%A1%D7%95%D7%A8%D7%99_10_%D7%A7%D7%B4%D7%92_%D7%A1%D7%91%D7%90_%D7%97%D7%91%D7%99%D7%91-3273.jpg",
+        "name": "זית סורי 10 ק״ג סבא חביב",
+        "code": "3273"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%96%D7%99%D7%AA_%D7%A1%D7%A0%D7%98%D7%94_10_%D7%A7%D7%B4%D7%92-353.jpg",
+        "name": "זית סנטה 10 ק״ג",
+        "code": "353"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%96%D7%99%D7%AA_%D7%A4%D7%A8%D7%95%D7%A1_%D7%99%D7%A8%D7%95%D7%A7_9_%D7%9C%D7%99%D7%98%D7%A8_%D7%92%D7%95%D7%A9%D7%9F-3065.jpg",
+        "name": "זית פרוס ירוק 9 ליטר גושן",
+        "code": "3065"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%96%D7%99%D7%AA_%D7%A4%D7%A8%D7%95%D7%A1_%D7%99%D7%A8%D7%95%D7%A7_9_%D7%9C%D7%99%D7%98%D7%A8_%D7%93%D7%95%D7%A0%D7%99%D7%96-3223.jpg",
+        "name": "זית פרוס ירוק 9 ליטר דוניז",
+        "code": "3223"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%96%D7%99%D7%AA_%D7%A4%D7%A8%D7%95%D7%A1_%D7%99%D7%A8%D7%95%D7%A7_9_%D7%9C%D7%99%D7%98%D7%A8_%D7%9E%D7%95%D7%98%D7%95%D7%9C%D7%94-3222.jpg",
+        "name": "זית פרוס ירוק 9 ליטר מוטולה",
+        "code": "3222"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%96%D7%99%D7%AA_%D7%A4%D7%A8%D7%95%D7%A1_%D7%99%D7%A8%D7%95%D7%A7_9_%D7%9C%D7%99%D7%98%D7%A8_%D7%A4.%D7%97%D7%9F-322.jpg",
+        "name": "זית פרוס ירוק 9 ליטר פ.חן",
+        "code": "322"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%96%D7%99%D7%AA_%D7%A4%D7%A8%D7%95%D7%A1_%D7%A9%D7%97%D7%95%D7%A8_9_%D7%9C%D7%99%D7%98%D7%A8_%D7%9E%D7%95%D7%98%D7%95%D7%9C%D7%94-3540.jpg",
+        "name": "זית פרוס שחור 9 ליטר מוטולה",
+        "code": "3540"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%96%D7%99%D7%AA_%D7%A4%D7%A8%D7%95%D7%A1_%D7%A9%D7%97%D7%95%D7%A8_9_%D7%9C%D7%99%D7%98%D7%A8_%D7%A4%D7%A8%D7%99_%D7%97%D7%9F-354.jpg",
+        "name": "זית פרוס שחור 9 ליטר פרי חן",
+        "code": "354"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%97%D7%95%D7%9E%D7%95_%D7%92%D7%A8%D7%92%D7%99%D7%A8%D7%99%D7%9D_600_%D7%92%D7%A8%D7%9D_24%D7%99%D7%97%D7%99%D7%93%D7%95%D7%AA_%D7%91%D7%9E%D7%90%D7%A8%D7%96-19209.jpg",
+        "name": "חומו גרגירים 600 גרם 24 יחידות במארז",
+        "code": "19209"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%97%D7%95%D7%9E%D7%95%D7%A1_600_%D7%92%D7%A8%D7%9D_12_%D7%99%D7%97%D7%99%D7%93%D7%95%D7%AA_%D7%91%D7%9E%D7%90%D7%A8%D7%96-19210.jpg",
+        "name": "חומוס 600 גרם 12 יחידות במארז",
+        "code": "19210"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%98%D7%95%D7%A0%D7%94_1_%D7%A7%D7%B4%D7%92_%D7%93%D7%90%D7%99%D7%9E%D7%95%D7%A0%D7%93_12_%D7%99%D7%97%D7%99%D7%93%D7%95%D7%AA_%D7%91%D7%A7%D7%A8%D7%98%D7%95%D7%9F-28891.jpg",
+        "name": "טונה 1 ק״ג דאימונד 12 יחידות בקרטון",
+        "code": "28891"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%98%D7%95%D7%A0%D7%94_1_%D7%A7%D7%B4%D7%92_%D7%A8%D7%99%D7%A3_12%D7%99%D7%97%D7%99%D7%93%D7%95%D7%AA_%D7%91%D7%A7%D7%A8%D7%98%D7%95%D7%9F-29001.jpg",
+        "name": "טונה 1 ק״ג ריף 12 יחידות בקרטון",
+        "code": "29001"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%9B%D7%A8%D7%95%D7%91_%D7%9B%D7%91%D7%95%D7%A9_3_%D7%A7%D7%B4%D7%92_%D7%9E%D7%95%D7%98%D7%95%D7%9C%D7%94-3374.jpg",
+        "name": "כרוב כבוש 3 ק״ג מוטולה",
+        "code": "3374"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%9B%D7%A8%D7%95%D7%91_%D7%9B%D7%91%D7%95%D7%A9_3_%D7%A7%D7%B4%D7%92_%D7%A4%D7%A8%D7%99_%D7%97%D7%9F-3372.jpg",
+        "name": "כרוב כבוש 3 ק״ג פרי חן",
+        "code": "3372"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%9B%D7%A8%D7%95%D7%91_%D7%9B%D7%91%D7%95%D7%A9_5_%D7%A7%D7%B4%D7%92_%D7%A4%D7%9C%D7%95%D7%98%D7%A7%D7%99%D7%9F-3375.jpg",
+        "name": "כרוב כבוש 5 ק״ג פלוטקין",
+        "code": "3375"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%9C%D7%91%D7%91%D7%95%D7%AA_%D7%93%D7%A7%D7%9C_400_%D7%92%D7%A8%D7%9D_24_%D7%99%D7%97%D7%99%D7%93%D7%95%D7%AA_%D7%91%D7%A7%D7%A8%D7%98%D7%95%D7%9F-19219.jpg",
+        "name": "לבבות דקל 400 גרם 24 יחידות בקרטון",
+        "code": "19219"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%9E%D7%9C%D7%A4%D7%A4%D7%95%D7%9F_9_%D7%9C%D7%99%D7%98%D7%A8_%D7%91%D7%97%D7%95%D7%9E%D7%A5_%D7%94%D7%9E%D7%A8%D7%9B%D7%96-3030.jpg",
+        "name": "מלפפון 9 ליטר בחומץ המרכז",
+        "code": "3030"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%9E%D7%9C%D7%A4%D7%A4%D7%95%D7%9F_81-95_%D7%91%D7%9E%D7%9C%D7%97_9_%D7%9C%D7%99%D7%98%D7%A8_%D7%A4.%D7%97%D7%9F-3051.jpg",
+        "name": "מלפפון 81-95 במלח 9 ליטר פ.חן",
+        "code": "3051"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%9E%D7%9C%D7%A4%D7%A4%D7%95%D7%9F_%D7%91%D7%9E%D7%9C%D7%97_9_%D7%9C%D7%99%D7%98%D7%A8_81-95_%D7%9E%D7%A8%D7%9B%D7%96-3052.jpg",
+        "name": "מלפפון במלח 9 ליטר 81-95 מרכז",
+        "code": "3052"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%9E%D7%9C%D7%A4%D7%A4%D7%95%D7%9F_%D7%A4%D7%A8%D7%95%D7%A1_9_%D7%9C%D7%99%D7%98%D7%A8_%D7%91%D7%9E%D7%9C%D7%97_%D7%9E%D7%95%D7%98%D7%95%D7%9C%D7%94-3591.jpg",
+        "name": "מלפפון פרוס 9 ליטר במלח מוטולה",
+        "code": "3591"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%9E%D7%9C%D7%A4%D7%A4%D7%95%D7%9F_%D7%A4%D7%A8%D7%95%D7%A1_9_%D7%9C%D7%99%D7%98%D7%A8_%D7%9E%D7%AA%D7%95%D7%91%D7%9C_%D7%9E%D7%95%D7%98%D7%95%D7%9C%D7%94-3025.jpg",
+        "name": "מלפפון פרוס 9 ליטר מתובל מוטולה",
+        "code": "3025"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%9E%D7%9C%D7%A4%D7%A4%D7%95%D7%9F_%D7%A4%D7%A8%D7%95%D7%A1_%D7%91%D7%9E%D7%9C%D7%97_9_%D7%9C%D7%99%D7%98%D7%A8_%D7%A2%D7%93%D7%9F-3045.jpg",
+        "name": "מלפפון פרוס במלח 9 ליטר עדן",
+        "code": "3045"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%9E%D7%9C%D7%A4%D7%A4%D7%95%D7%9F_%D7%A7%D7%95%D7%91%D7%99%D7%95%D7%AA_9_%D7%9C%D7%99%D7%98%D7%A8_%D7%91%D7%9E%D7%9C%D7%97_%D7%9E%D7%95%D7%98%D7%95%D7%9C%D7%94-3485.jpg",
+        "name": "מלפפון קוביות 9 ליטר במלח מוטולה",
+        "code": "3485"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%9E%D7%9C%D7%A4%D7%A4%D7%95%D7%9F_%D7%A7%D7%95%D7%91%D7%99%D7%95%D7%AA_%D7%91%D7%9E%D7%9C%D7%97_9_%D7%9C%D7%99%D7%98%D7%A8_%D7%A2%D7%93%D7%9F-3484.jpg",
+        "name": "מלפפון קוביות במלח 9 ליטר עדן",
+        "code": "3484"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%9E%D7%9C%D7%A4%D7%A4%D7%95%D7%9F_%D7%A7%D7%95%D7%A8%D7%A0%D7%99%D7%A9%D7%99%D7%95%D7%9F_1.9%D7%9C%D7%99%D7%98%D7%A8-3391.jpg",
+        "name": "מלפפון קורנישיון 1.9 ליטר",
+        "code": "3391"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%9E%D7%9C%D7%A4%D7%A4%D7%95%D7%9F_%D7%A7%D7%95%D7%A8%D7%A0%D7%99%D7%A9%D7%99%D7%95%D7%9F_%D7%A6%D7%A0%D7%A6%D7%A0%D7%AA-3390.jpg",
+        "name": "מלפפון קורנישיון צנצנת",
+        "code": "3390"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%A2%D7%92%D7%91%D7%A0%D7%99%D7%95%D7%AA_2_%D7%A7%D7%B4%D7%92_%D7%9E%D7%99%D7%95%D7%91%D7%A9%D7%95%D7%AA-236.jpg",
+        "name": "עגבניות 2 ק״ג מיובשות",
+        "code": "236"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%A2%D7%92%D7%91%D7%A0%D7%99%D7%95%D7%AA_a10_%D7%A7%D7%95%D7%91%D7%99%D7%95%D7%AA_%D7%98%D7%9C-238.jpg",
+        "name": "עגבניות קוביות טל",
+        "code": "238"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%A2%D7%92%D7%91%D7%A0%D7%99%D7%95%D7%AA_%D7%9E%D7%99%D7%95%D7%91%D7%A9%D7%95%D7%AA_%D7%91%D7%A9%D7%9E%D7%9F_%D7%96%D7%99%D7%AA_3_%D7%A7%D7%B4%D7%92-2221.jpg",
+        "name": "עגבניות מיובשות בשמן זית 3 ק״ג",
+        "code": "2221"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%A2%D7%92%D7%91%D7%A0%D7%99%D7%95%D7%AA_%D7%A7%D7%9C%D7%95%D7%A4%D7%95%D7%AA_%D7%A9%D7%91%D7%99_6_%D7%99%D7%97%D7%99%D7%93%D7%95%D7%AA_%D7%91%D7%A7%D7%A8%D7%98%D7%95%D7%9F-19246.jpg",
+        "name": "עגבניות קלופות שבי 6 יחידות בקרטון",
+        "code": "19246"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%A2%D7%92%D7%91%D7%A0%D7%99%D7%95%D7%AAa9_%D7%9E%D7%A8%D7%95%D7%A1%D7%A7%D7%95%D7%AA_%D7%95%D7%99%D7%98%D7%94-212.jpg",
+        "name": "עגבניות מרוסקות ויטה",
+        "code": "212"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%A2%D7%9C%D7%99_%D7%92%D7%A4%D7%9F_2_%D7%A7%D7%B4%D7%92_%D7%9E%D7%9E%D7%95%D7%9C%D7%90_%D7%90%D7%91%D7%A8%D7%9E%D7%A0%D7%98%D7%95-3490.jpg",
+        "name": "עלי גפן 2 ק״ג ממולא אברמנטו",
+        "code": "3490"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%A2%D7%9C%D7%99_%D7%92%D7%A4%D7%9F_2_%D7%A7%D7%B4%D7%92_%D7%9E%D7%9E%D7%95%D7%9C%D7%90_%D7%AA.%D7%97%D7%95%D7%A5-349.jpg",
+        "name": "עלי גפן 2 ק״ג ממולא ת.חוץ",
+        "code": "349"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%A2%D7%9C%D7%99_%D7%92%D7%A4%D7%9F_10_%D7%A7%D7%B4%D7%92_%D7%90%D7%91%D7%A8%D7%9E%D7%A0%D7%98%D7%95-3291.jpg",
+        "name": "עלי גפן 10 ק״ג אברמנטו",
+        "code": "3291"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%A4%D7%95%D7%9C_600_%D7%92%D7%A8%D7%9D_12%D7%99%D7%97%D7%99%D7%93%D7%95%D7%AA_%D7%91%D7%9E%D7%90%D7%A8%D7%96-1922510Vy.jpg",
+        "name": "פול 600 גרם 12 יחידות במארז",
+        "code": "19225"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%A4%D7%9C%D7%A4%D7%9C_%D7%97%D7%9C%D7%A4%D7%99%D7%A0%D7%99%D7%95_%D7%A4%D7%A8%D7%95%D7%A1%D7%95%D7%AA-574.jpg",
+        "name": "פלפל חלפיניו פרוסות",
+        "code": "574"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%A4%D7%9C%D7%A4%D7%9C_%D7%A9%D7%99%D7%A4%D7%A7%D7%94_9_%D7%9C%D7%99%D7%98%D7%A8_%D7%9E%D7%95%D7%98%D7%95%D7%9C%D7%94-3340.jpg",
+        "name": "פלפל שיפקה 9 ליטר מוטולה",
+        "code": "3340"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%A4%D7%9C%D7%A4%D7%9C_%D7%A9%D7%99%D7%A4%D7%A7%D7%94_9_%D7%9C%D7%99%D7%98%D7%A8_%D7%A2%D7%93%D7%9F-3344.jpg",
+        "name": "פלפל שיפקה 9 ליטר עדן",
+        "code": "3344"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%A4%D7%9C%D7%A4%D7%9C_%D7%A9%D7%99%D7%A4%D7%A7%D7%94_600_%D7%92%D7%A8%D7%9D_12_%D7%99%D7%97%D7%99%D7%93%D7%95%D7%AA_%D7%91%D7%9E%D7%90%D7%A8%D7%96-19227.jpg",
+        "name": "פלפל שיפקה 600 גרם 12 יחידות במארז",
+        "code": "19227"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%A6%D7%9C%D7%A4%D7%99%D7%9D_350_%D7%92%D7%A8%D7%9D-185.jpg",
+        "name": "צלפים 350 גרם",
+        "code": "185"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%A6%D7%9C%D7%A4%D7%99%D7%9D_944_%D7%92%D7%A8%D7%9D_%D7%9E%D7%99%D7%A0%D7%99%D7%90%D7%98%D7%95%D7%A8%D7%99%D7%9D_%D7%91%D7%97%D7%95%D7%9E%D7%A5-18520.jpg",
+        "name": "צלפים 944 גרם מיניאטורים בחומץ",
+        "code": "18520"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%A7%D7%A8%D7%9D_%D7%A7%D7%95%D7%A7%D7%95%D7%A1_17-19_%D7%90%D7%97%D7%95%D7%96%D7%99_%D7%A9%D7%95%D7%9E%D7%9F_2.9_%D7%9C%D7%99%D7%98%D7%A8_%D7%9E.%D7%95%D7%9E%D7%A2%D7%A8%D7%91-2833.jpg",
+        "name": "קרם קוקוס 17-19 אחוזי שומן 2.9 ליטר מ.ומערב",
+        "code": "2833"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%A7%D7%A8%D7%9D_%D7%A7%D7%95%D7%A7%D7%95%D7%A1_20-22_%D7%90%D7%97%D7%95%D7%96%D7%99_%D7%A9%D7%95%D7%9E%D7%9F_2.9_%D7%9C%D7%99%D7%98%D7%A8_%D7%9E.%D7%95%D7%9E%D7%A2%D7%A8%D7%91-2834.jpg",
+        "name": "קרם קוקוס 20-22 אחוזי שומן 2.9 ליטר מ.ומערב",
+        "code": "2834"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%A8%D7%95%D7%98%D7%91_%D7%A4%D7%99%D7%A6%D7%94_4.1_%D7%A7%D7%B4%D7%92_%D7%90%D7%99%D7%98%D7%9C%D7%A7%D7%99_%D7%9E%D7%95%D7%98%D7%99-2230.jpg",
+        "name": "רוטב פיצה 4.1 ק״ג איטלקי מוטי",
+        "code": "2230"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%A8%D7%A1%D7%A7_%D7%A2%D7%92%D7%91%D7%A0%D7%99%D7%95%D7%AA_580_%D7%92%D7%A8%D7%9D_12_%D7%99%D7%97%D7%99%D7%93%D7%95%D7%AA_%D7%91%D7%9E%D7%90%D7%A8%D7%96-19248.jpg",
+        "name": "רסק עגבניות 580 גרם 12 יחידות במארז",
+        "code": "19248"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%A9%D7%A2%D7%95%D7%A2%D7%99%D7%AA_439_%D7%92%D7%A8%D7%9D_%D7%A9%D7%97%D7%95%D7%A8%D7%94_24_%D7%99%D7%97%D7%99%D7%93%D7%95%D7%AA_%D7%91%D7%9E%D7%90%D7%A8%D7%96-19239FYJS.jpg",
+        "name": "שעועית 439 גרם שחורה 24 יחידות במארז",
+        "code": "19239"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%A9%D7%A2%D7%95%D7%A2%D7%99%D7%AA_%D7%9C%D7%91%D7%A0%D7%94_600_%D7%92%D7%A8%D7%9D_%D7%91%D7%A8%D7%95%D7%98%D7%91_12%D7%99%D7%97%D7%99%D7%93%D7%95%D7%AA_%D7%91%D7%9E%D7%90%D7%A8%D7%96-19237xUls.jpg",
+        "name": "שעועית לבנה 600 גרם ברוטב 12 יחידות במארז",
+        "code": "19237"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%AA%D7%99%D7%A8%D7%A1_600_%D7%92%D7%A8%D7%9D_12%D7%99%D7%97%D7%99%D7%93%D7%95%D7%AA_%D7%91%D7%9E%D7%90%D7%A8%D7%96_%D7%A2%D7%93%D7%9F-19242whcL.jpg",
+        "name": "תירס 600 גרם 12 יחידות במארז עדן",
+        "code": "19242"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%AA%D7%99%D7%A8%D7%A1_600_%D7%92%D7%A8%D7%9D_24_%D7%99%D7%97%D7%99%D7%93%D7%95%D7%AA_%D7%91%D7%9E%D7%90%D7%A8%D7%96_%D7%95%D7%99%D7%98%D7%94-192412pO0.jpg",
+        "name": "תירס 600 גרם 24 יחידות במארז ויטה",
+        "code": "19241"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%AA%D7%99%D7%A8%D7%A1_%D7%92%D7%9E%D7%93%D7%99_3_%D7%A7%D7%B4%D7%92_%D7%97%D7%AA%D7%95%D7%9A-293hk2h.jpg",
+        "name": "תירס גמדי 3 ק״ג חתוך",
+        "code": "293"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%AA%D7%99%D7%A8%D7%A1_%D7%92%D7%9E%D7%93%D7%99_3_%D7%A7%D7%B4%D7%92_%D7%A9%D7%9C%D7%9D-234uSXQ.jpg",
+        "name": "תירס גמדי 3 ק״ג שלם",
+        "code": "234"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%AA%D7%99%D7%A8%D7%A1_%D7%92%D7%9E%D7%93%D7%99_400_%D7%92%D7%A8%D7%9D_%D7%A9%D7%9C%D7%9D_24_%D7%99%D7%97%D7%99%D7%93%D7%95%D7%AA_%D7%91%D7%9E%D7%90%D7%A8%D7%96-19243Xs1I.jpg",
+        "name": "תירס גמדי 400 גרם שלם 24 יחידות במארז",
+        "code": "19243"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%AA%D7%99%D7%A8%D7%A1_%D7%92%D7%A8%D7%92%D7%99%D7%A8%D7%99%D7%9D_a9-2142q6UZ.jpg",
+        "name": "תירס גרגירים",
+        "code": "2142"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/lichi567.jpg",
+        "name": "ליצ'יס שלם 567 גרם 12 יחידות במארז",
+        "code": "19922"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/chipotele.jpg",
+        "name": "צ'יפוטלה 3 ק״ג",
+        "code": "5272"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/chipkonit.jpg",
+        "name": "צ'יפקונית 9 ק״ג חיים רפאל",
+        "code": "5722"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/crem2835.jpg",
+        "name": "קרם קוקוס 17-19 אחוז שומן 3 ליטר צ'אוקה",
+        "code": "2835"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/cocem19231.jpg",
+        "name": "קרם קוקוס 17-19 אחוזי שומן 400 גרם 24 יחידות בקרטון",
+        "code": "19231"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/creo19232.jpg",
+        "name": "קרם קוקוס 20-22 אחוזי שומן 400 גרם 24 יחידות בקרטון",
+        "code": "19232"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/shoyt.jpg",
+        "name": "שעועית צ'ילי 600 גרם 12 יחידות במארז",
+        "code": "19238"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%A9%D7%95%D7%9D_%D7%9B%D7%AA%D7%95%D7%A9_5_%D7%A7%D7%B4%D7%92_%D7%9E%D7%99%D7%98%D7%91-544.jpg",
+        "name": "שום כתוש 5 ק״ג מיטב",
+        "code": "544"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%97%D7%A8%D7%93%D7%9C_5_%D7%A7%D7%B4%D7%92_%D7%AA%D7%9C%D7%9E%D7%94-148.jpg",
+        "name": "חרדל 5 ק״ג תלמה",
+        "code": "148"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%97%D7%A8%D7%93%D7%9C_%D7%90%D7%9E%D7%A8%D7%99%D7%A7%D7%90%D7%99_4_%D7%A7%D7%B4%D7%92-1545.jpg",
+        "name": "חרדל אמריקאי 4 ק״ג",
+        "code": "1545"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/hardal12520.jpg",
+        "name": "חרדל דיז'ון 5 ק״ג גרגירים תומר",
+        "code": "12520"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/h1250.jpg",
+        "name": "חרדל דיז'ון 5 ק״ג גרגירים",
+        "code": "1250"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/154.jpg",
+        "name": "חרדל דיז'ון 5 ק״ג חלק סטאר פוד",
+        "code": "154"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/1543.jpg",
+        "name": "חרדל דיז'ון 5 ק״ג חלק",
+        "code": "1543"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%97%D7%A8%D7%93%D7%9C_%D7%9E%D7%99%D7%98%D7%91_5_%D7%A7%D7%B4%D7%92-1471.jpg",
+        "name": "חרדל מיטב 5 ק״ג",
+        "code": "1471"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%97%D7%A8%D7%93%D7%9C_%D7%9E%D7%A0%D7%95%D7%AA_500_%D7%99%D7%97%D7%99%D7%93%D7%95%D7%AA_%D7%91%D7%A7%D7%A8%D7%98%D7%95%D7%9F_%D7%90%D7%A1%D7%9D-9790.jpg",
+        "name": "חרדל מנות 500 יחידות בקרטון אסם",
+        "code": "9790"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%97%D7%A8%D7%93%D7%9C_%D7%9E%D7%A0%D7%95%D7%AA_500_%D7%99%D7%97%D7%99%D7%93%D7%95%D7%AA_%D7%91%D7%A7%D7%A8%D7%98%D7%95%D7%9F_%D7%94%D7%99%D7%99%D7%A0%D7%A5-946.jpg",
+        "name": "חרדל מנות 500 יחידות בקרטון היינץ",
+        "code": "946"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%98%D7%91%D7%A1%D7%A7%D7%95_60_%D7%9E%D7%B4%D7%9C-177.jpg",
+        "name": "טבסקו 60 מ״ל",
+        "code": "177"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%98%D7%91%D7%A1%D7%A7%D7%95_350_%D7%9E%D7%B4%D7%9C-1065.jpg",
+        "name": "טבסקו 350 מ״ל",
+        "code": "1065"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%9E%D7%97%D7%99%D7%AA_%D7%9B%D7%9E%D7%94%D7%99%D7%9F_500_%D7%92%D7%A8%D7%9D-8485.jpg",
+        "name": "מחית כמהין 500 גרם",
+        "code": "8485"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%9E%D7%99%D7%95%D7%A0%D7%96_3.44_%D7%A7%D7%B4%D7%92_%D7%94%D7%9C%D7%9E%D7%A0%D7%A1-1002.jpg",
+        "name": "מיונז 3.44 ק״ג הלמנס",
+        "code": "1002"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%9E%D7%99%D7%95%D7%A0%D7%96_4.85_%D7%A7%D7%B4%D7%92_%D7%94%D7%99%D7%99%D7%A0%D7%A5-1035.jpg",
+        "name": "מיונז 4.85 ק״ג היינץ",
+        "code": "1035"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%9E%D7%99%D7%95%D7%A0%D7%96_5_%D7%A7%D7%B4%D7%92_%D7%9E%D7%99%D7%95%D7%A1%D7%98%D7%90%D7%A8-1207.jpg",
+        "name": "מיונז 5 ק״ג מיוסטאר",
+        "code": "1207"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%9E%D7%99%D7%95%D7%A0%D7%96_5_%D7%A7%D7%B4%D7%92_%D7%9E%D7%99%D7%98%D7%91-119.jpg",
+        "name": "מיונז 5 ק״ג מיטב",
+        "code": "119"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%9E%D7%99%D7%95%D7%A0%D7%96_%D7%9E%D7%9E%D7%A8%D7%97_5_%D7%A7%D7%B4%D7%92_%D7%94%D7%9C%D7%9E%D7%A0%D7%A1-1209.jpg",
+        "name": "מיונז ממרח 5 ק״ג הלמנס",
+        "code": "1209"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%9E%D7%99%D7%95%D7%A0%D7%96_%D7%9E%D7%A0%D7%95%D7%AA_500_%D7%99%D7%97%D7%99%D7%93%D7%95%D7%AA_%D7%91%D7%A7%D7%A8%D7%98%D7%95%D7%9F_%D7%94%D7%99%D7%99%D7%A0%D7%A5-1188.jpg",
+        "name": "מיונז מנות 500 יחידות בקרטון היינץ",
+        "code": "1188"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%9E%D7%99%D7%95%D7%A0%D7%96_%D7%9E%D7%A0%D7%95%D7%AA_500_%D7%99%D7%97%D7%99%D7%93%D7%95%D7%AA_%D7%91%D7%A7%D7%A8%D7%98%D7%95%D7%9F_%D7%9E%D7%99%D7%98%D7%91-1042.jpg",
+        "name": "מיונז מנות 500 יחידות בקרטון מיטב",
+        "code": "1042"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%9E%D7%99%D7%95%D7%A0%D7%96_%D7%A9%D7%91%D7%99_5_%D7%A7%D7%B4%D7%92-1203.jpg",
+        "name": "מיונז שבי 5 ק״ג",
+        "code": "1203"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%9E%D7%99%D7%95%D7%A0%D7%96_%D7%AA%D7%9C%D7%9E%D7%94_5_%D7%A7%D7%B4%D7%92-120.jpg",
+        "name": "מיונז תלמה 5 ק״ג",
+        "code": "120"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%9E%D7%9E%D7%A8%D7%97_%D7%90%D7%99%D7%95%D7%9C%D7%99_%D7%A9%D7%95%D7%9D_5_%D7%A7%D7%B4%D7%92_%D7%94%D7%9C%D7%9E%D7%A0%D7%A1-577.jpg",
+        "name": "ממרח איולי שום 5 ק״ג הלמנס",
+        "code": "577"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/3908.jpg",
+        "name": "סריראצ'ה 482 גרם תרנגול",
+        "code": "3908"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%A2%D7%9E%D7%91%D7%94_19.5_%D7%A7%D7%B4%D7%92_%D7%A9%D7%9E%D7%A9-2395.jpg",
+        "name": "עמבה 19.5 ק״ג שמש",
+        "code": "2395"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%A4%D7%95%D7%9C%D7%A4%D7%94_%D7%90%D7%99%D7%98%D7%9C%D7%A7%D7%99_10_%D7%A7%D7%B4%D7%92_%D7%A8%D7%95%D7%A1%D7%95-2124.jpg",
+        "name": "פולפה איטלקי 10 ק״ג רוסו",
+        "code": "2124"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%A7%D7%98%D7%A9%D7%95%D7%A4_2.4_%D7%A7%D7%B4%D7%92_%D7%94%D7%99%D7%99%D7%A0%D7%A5-1721.jpg",
+        "name": "קטשופ 2.4 ק״ג היינץ",
+        "code": "1721"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%A7%D7%98%D7%A9%D7%95%D7%A4_4.45_%D7%A7%D7%B4%D7%92_%D7%90%D7%A1%D7%9D-4723.jpg",
+        "name": "קטשופ 4.45 ק״ג אסם",
+        "code": "4723"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%A7%D7%98%D7%A9%D7%95%D7%A4_5_%D7%A7%D7%B4%D7%92_%D7%91%D7%93%D7%9C%D7%99_%D7%9E%D7%99%D7%98%D7%91-229.jpg",
+        "name": "קטשופ 5 ק״ג בדלי מיטב",
+        "code": "229"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%A7%D7%98%D7%A9%D7%95%D7%A4_13_%D7%A7%D7%B4%D7%92_%D7%9E%D7%95%D7%A1%D7%93%D7%99_%D7%90%D7%A1%D7%9D-2300.jpg",
+        "name": "קטשופ 13 ק״ג מוסדי אסם",
+        "code": "2300"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%A7%D7%98%D7%A9%D7%95%D7%A4_13_%D7%A7%D7%B4%D7%92_%D7%9E%D7%95%D7%A1%D7%93%D7%99_%D7%94%D7%99%D7%99%D7%A0%D7%A5-848.jpg",
+        "name": "קטשופ 13 ק״ג מוסדי היינץ",
+        "code": "848"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%A7%D7%98%D7%A9%D7%95%D7%A4_13_%D7%A7%D7%B4%D7%92_%D7%9E%D7%95%D7%A1%D7%93%D7%99_%D7%94%D7%9C%D7%9E%D7%A0%D7%A1-844.jpg",
+        "name": "קטשופ 13 ק״ג מוסדי הלמנס",
+        "code": "844"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%A7%D7%98%D7%A9%D7%95%D7%A4_255_%D7%92%D7%A8%D7%9D_%D7%97%D7%A8%D7%99%D7%A3_%D7%94%D7%99%D7%99%D7%A0%D7%A5_10_%D7%99%D7%97%D7%99%D7%93%D7%95%D7%AA_%D7%91%D7%9E%D7%90%D7%A8%D7%96-19228.jpg",
+        "name": "קטשופ 255 גרם חריף היינץ 10 יחידות במארז",
+        "code": "19228"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%A7%D7%98%D7%A9%D7%95%D7%A4_%D7%91%D7%A9%D7%A7%D7%99%D7%AA_5.8_%D7%A7%D7%B4%D7%92_%D7%9B%D7%A4%D7%95%D7%9C_3_%D7%99%D7%97%D7%99%D7%93%D7%95%D7%AA-1717.jpg",
+        "name": "קטשופ בשקית 5.8 ק״ג כפול 3 יחידות",
+        "code": "1717"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%A7%D7%98%D7%A9%D7%95%D7%A4_%D7%9C%D7%97%D7%99%D7%A5_567_%D7%92%D7%A8%D7%9D_12_%D7%99%D7%97%D7%99%D7%93%D7%95%D7%AA_%D7%91%D7%9E%D7%90%D7%A8%D7%96-19230.jpg",
+        "name": "קטשופ לחיץ 567 גרם 12 יחידות במארז",
+        "code": "19230"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%A8%D7%95%D7%98%D7%91_%D7%90.%D7%94%D7%90%D7%99%D7%99%D7%9D_4_%D7%9C%D7%99%D7%98%D7%A8_%D7%93%D7%94_%D7%91%D7%A1%D7%98-116.jpg",
+        "name": "רוטב א.האיים 4 ליטר דה בסט",
+        "code": "116"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%A8%D7%95%D7%98%D7%91_%D7%90.%D7%94%D7%90%D7%99%D7%99%D7%9D_5_%D7%9C%D7%99%D7%98%D7%A8_%D7%9C%D7%99%D7%99%D7%98_%D7%A7%D7%A0%D7%95%D7%A8-8012.jpg",
+        "name": "רוטב א.האיים 5 ליטר לייט קנור",
+        "code": "8012"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%A8%D7%95%D7%98%D7%91_%D7%90.%D7%94%D7%90%D7%99%D7%99%D7%9D_5_%D7%9C%D7%99%D7%98%D7%A8_%D7%A7%D7%A0%D7%95%D7%A8-8011.jpg",
+        "name": "רוטב א.האיים 5 ליטר קנור",
+        "code": "8011"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%A8%D7%95%D7%98%D7%91_%D7%90%D7%99%D7%99%D7%A5.%D7%A4%D7%99_465_%D7%9E%D7%B4%D7%9C_8%D7%99%D7%97%D7%99%D7%93%D7%95%D7%AA_%D7%91%D7%9E%D7%90%D7%A8%D7%96-19249.jpg",
+        "name": "רוטב אייץ.פי 465 מ״ל 8 יחידות במארז",
+        "code": "19249"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%A8%D7%95%D7%98%D7%91_%D7%90%D7%9C%D7%A3_%D7%94%D7%90%D7%99%D7%99%D7%9D_%D7%9E%D7%A0%D7%95%D7%AA_%D7%9E%D7%99%D7%98%D7%91_500_%D7%99%D7%97%D7%99%D7%93%D7%95%D7%AA-2204.jpg",
+        "name": "רוטב אלף האיים מנות מיטב 500 יחידות",
+        "code": "2204"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%A8%D7%95%D7%98%D7%91_%D7%91%D7%9C%D7%A1%D7%9E%D7%99_5_%D7%9C%D7%99%D7%98%D7%A8_%D7%AA%D7%9C%D7%9E%D7%94-10011.jpg",
+        "name": "רוטב בלסמי 5 ליטר תלמה",
+        "code": "10011"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%A8%D7%95%D7%98%D7%91_%D7%91%D7%A8%D7%91%D7%99%D7%A7%D7%95_5_%D7%9C%D7%99%D7%98%D7%A8_%D7%A7%D7%A0%D7%95%D7%A8-1671.jpg",
+        "name": "רוטב ברביקו 5 ליטר קנור",
+        "code": "1671"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%A8%D7%95%D7%98%D7%91_%D7%91%D7%A8%D7%91%D7%99%D7%A7%D7%99%D7%95_3.8_%D7%9C%D7%99%D7%98%D7%A8_%D7%A1%D7%95%D7%95%D7%99%D7%98_%D7%91%D7%99%D7%99%D7%91%D7%99-8099.jpg",
+        "name": "רוטב ברביקיו 3.8 ליטר סוויט בייבי",
+        "code": "8099"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%A8%D7%95%D7%98%D7%91_%D7%91%D7%A8%D7%91%D7%99%D7%A7%D7%99%D7%95_4.3_%D7%A7%D7%B4%D7%92_%D7%94%D7%9C%D7%9E%D7%A0%D7%A1-16710.jpg",
+        "name": "רוטב ברביקיו 4.3 ק״ג הלמנס",
+        "code": "16710"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%A8%D7%95%D7%98%D7%91_%D7%91%D7%A8%D7%91%D7%99%D7%A7%D7%99%D7%95_4_%D7%9C%D7%99%D7%98%D7%A8_%D7%93%D7%94_%D7%91%D7%A1%D7%98-856.jpg",
+        "name": "רוטב ברביקיו 4 ליטר דה בסט",
+        "code": "856"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%A8%D7%95%D7%98%D7%91_%D7%91%D7%A8%D7%91%D7%99%D7%A7%D7%99%D7%95_5_%D7%9C%D7%99%D7%98%D7%A8_%D7%A7%D7%95%D7%95%D7%99%D7%A0%D7%A1-8094.jpg",
+        "name": "רוטב ברביקיו 5 ליטר קווינס",
+        "code": "8094"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%A8%D7%95%D7%98%D7%91_%D7%91%D7%A8%D7%91%D7%99%D7%A7%D7%99%D7%95_480_%D7%92%D7%A8%D7%9D_%D7%94%D7%99%D7%99%D7%A0%D7%A5-988.jpg",
+        "name": "רוטב ברביקיו 480 גרם היינץ",
+        "code": "988"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%A8%D7%95%D7%98%D7%91_%D7%91%D7%A8%D7%91%D7%99%D7%A7%D7%99%D7%95_510_%D7%92%D7%A8%D7%9D_%D7%94%D7%A0%D7%98%D7%A1-5785.jpg",
+        "name": "רוטב ברביקיו 510 גרם הנטס",
+        "code": "5785"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%A8%D7%95%D7%98%D7%91_%D7%95%D7%95%D7%A6%D7%A1%D7%98%D7%A8_5_%D7%9C%D7%99%D7%98%D7%A8_%D7%A7%D7%95%D7%95%D7%99%D7%A0%D7%A1-8093.jpg",
+        "name": "רוטב ווצסטר 5 ליטר קווינס",
+        "code": "8093"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%A8%D7%95%D7%98%D7%91_%D7%95%D7%99%D7%A0%D7%99%D7%92%D7%A8%D7%98_4_%D7%9C%D7%99%D7%98%D7%A8_%D7%93%D7%94_%D7%91%D7%A1%D7%98-1865.jpg",
+        "name": "רוטב ויניגרט 4 ליטר דה בסט",
+        "code": "1865"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%A8%D7%95%D7%98%D7%91_%D7%95%D7%99%D7%A0%D7%99%D7%92%D7%A8%D7%98_5.1_%D7%9C%D7%99%D7%98%D7%A8_%D7%90%D7%A1%D7%99%D7%90%D7%AA%D7%99-1994.jpg",
+        "name": "רוטב ויניגרט 5.1 ליטר אסיאתי",
+        "code": "1994"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%A8%D7%95%D7%98%D7%91_%D7%95%D7%99%D7%A0%D7%99%D7%92%D7%A8%D7%98_5.1_%D7%9C%D7%99%D7%98%D7%A8_%D7%94%D7%93%D7%A8%D7%99%D7%9D-1996.jpg",
+        "name": "רוטב ויניגרט 5.1 ליטר הדרים",
+        "code": "1996"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%A8%D7%95%D7%98%D7%91_%D7%95%D7%99%D7%A0%D7%99%D7%92%D7%A8%D7%98_5_%D7%9C%D7%99%D7%98%D7%A8_%D7%A7%D7%A0%D7%95%D7%A8-1860.jpg",
+        "name": "רוטב ויניגרט 5 ליטר קנור",
+        "code": "1860"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%A8%D7%95%D7%98%D7%91_%D7%97.%D7%9E%D7%AA%D7%95%D7%A7_5_%D7%9C%D7%99%D7%98%D7%A8_%D7%AA%D7%9C%D7%9E%D7%94-1673.jpg",
+        "name": "רוטב ח.מתוק 5 ליטר תלמה",
+        "code": "1673"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%A8%D7%95%D7%98%D7%91_%D7%97%D7%96%D7%A8%D7%AA_453_%D7%92%D7%A8%D7%9D-1952.jpg",
+        "name": "רוטב חזרת 453 גרם",
+        "code": "1952"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%A8%D7%95%D7%98%D7%91_%D7%97%D7%A8%D7%93%D7%9C_%D7%95%D7%93%D7%91%D7%A9_%D7%94%D7%9C%D7%9E%D7%A0%D7%A1_5_%D7%9C%D7%99%D7%98%D7%A8-1084.jpg",
+        "name": "רוטב חרדל ודבש הלמנס 5 ליטר",
+        "code": "1084"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%A8%D7%95%D7%98%D7%91_%D7%98%D7%95%D7%9D_%D7%99%D7%90%D7%9D_250_%D7%9E%D7%B4%D7%9C-1136.jpg",
+        "name": "רוטב טום יאם 250 מ״ל",
+        "code": "1136"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%A8%D7%95%D7%98%D7%91_%D7%98%D7%A8%D7%99%D7%90%D7%A7%D7%99_4_%D7%9C%D7%99%D7%98%D7%A8_%D7%90%D7%A1%D7%9D-1073.jpg",
+        "name": "רוטב טריאקי 4 ליטר אסם",
+        "code": "1073"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%A8%D7%95%D7%98%D7%91_%D7%98%D7%A8%D7%99%D7%90%D7%A7%D7%99_4_%D7%9C%D7%99%D7%98%D7%A8_%D7%93%D7%94_%D7%91%D7%A1%D7%98-1076.jpg",
+        "name": "רוטב טריאקי 4 ליטר דה בסט",
+        "code": "1076"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%A8%D7%95%D7%98%D7%91_%D7%98%D7%A8%D7%99%D7%90%D7%A7%D7%99_5_%D7%9C%D7%99%D7%98%D7%A8_%D7%A7%D7%A0%D7%95%D7%A8-1072.jpg",
+        "name": "רוטב טריאקי 5 ליטר קנור",
+        "code": "1072"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%A8%D7%95%D7%98%D7%91_%D7%99%D7%99%D7%9F_%D7%90%D7%93%D7%95%D7%9D_5_%D7%9C%D7%99%D7%98%D7%A8_%D7%A7%D7%A0%D7%95%D7%A8-1538.jpg",
+        "name": "רוטב יין אדום 5 ליטר קנור",
+        "code": "1538"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%A8%D7%95%D7%98%D7%91_%D7%9C%D7%99%D7%9E%D7%95%D7%9F_%D7%95%D7%A9%D7%9E%D7%9F_%D7%96%D7%99%D7%AA_5_%D7%9C%D7%99%D7%98%D7%A8_%D7%94%D7%9C%D7%9E%D7%A0%D7%A1-1995.jpg",
+        "name": "רוטב לימון ושמן זית 5 ליטר הלמנס",
+        "code": "1995"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%A8%D7%95%D7%98%D7%91_%D7%9C%D7%A9%D7%A7%D7%A9%D7%95%D7%A7%D7%94_5_%D7%A7%D7%B4%D7%92_%D7%A7%D7%A0%D7%95%D7%A8-57723.jpg",
+        "name": "רוטב לשקשוקה 5 ק״ג קנור",
+        "code": "57723"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%A8%D7%95%D7%98%D7%91_%D7%9E%D7%A7%D7%A1%D7%99%D7%A7%D7%A0%D7%99_5_%D7%9C%D7%99%D7%98%D7%A8_%D7%A7%D7%A0%D7%95%D7%A8-10490.jpg",
+        "name": "רוטב מקסיקני 5 ליטר קנור",
+        "code": "10490"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%A8%D7%95%D7%98%D7%91_%D7%A0%D7%A4%D7%90%D7%9C%D7%99_5_%D7%9C%D7%99%D7%98%D7%A8_%D7%A7%D7%A0%D7%95%D7%A8-9235.jpg",
+        "name": "רוטב נפאלי 5 ליטר קנור",
+        "code": "9235"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%A8%D7%95%D7%98%D7%91_%D7%A0%D7%A4%D7%95%D7%9C%D7%99%D7%98%D7%A0%D7%94_5_%D7%A7%D7%B4%D7%92_%D7%A7%D7%A0%D7%95%D7%A8-57721.jpg",
+        "name": "רוטב נפוליטנה 5 ק״ג קנור",
+        "code": "57721"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%A8%D7%95%D7%98%D7%91_%D7%A1%D7%95%D7%99%D7%94_1.8_%D7%9C%D7%99%D7%98%D7%A8_%D7%99%D7%90%D7%9E%D7%90%D7%A1%D7%94-9861.jpg",
+        "name": "רוטב סויה 1.8 ליטר יאמאסה",
+        "code": "9861"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%A8%D7%95%D7%98%D7%91_%D7%A1%D7%95%D7%99%D7%94_2_%D7%9C%D7%99%D7%98%D7%A8_%D7%9B%D7%94%D7%94-9442.jpg",
+        "name": "רוטב סויה 2 ליטר כהה",
+        "code": "9442"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%A8%D7%95%D7%98%D7%91_%D7%A1%D7%95%D7%99%D7%94_3.8_%D7%9C%D7%99%D7%98%D7%A8_%D7%A7%D7%99%D7%A7%D7%95%D7%9E%D7%9F-2006.jpg",
+        "name": "רוטב סויה 3.8 ליטר קיקומן",
+        "code": "2006"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/9859.jpg",
+        "name": "רוטב סויה 3 ק״ג מתוק מקסצ'אפ",
+        "code": "9859"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%A8%D7%95%D7%98%D7%91_%D7%A1%D7%95%D7%99%D7%94_4_%D7%9C%D7%99%D7%98%D7%A8_%D7%95%D7%99%D7%98%D7%94-200.jpg",
+        "name": "רוטב סויה 4 ליטר ויטה",
+        "code": "200"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%A8%D7%95%D7%98%D7%91_%D7%A1%D7%95%D7%99%D7%94_5_%D7%9C%D7%99%D7%98%D7%A8_%D7%91%D7%A1%D7%92%D7%A0%D7%95%D7%9F_%D7%A1%D7%99%D7%A0%D7%99_%D7%A7%D7%A0%D7%95%D7%A8-10495.jpg",
+        "name": "רוטב סויה 5 ליטר בסגנון סיני קנור",
+        "code": "10495"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%A8%D7%95%D7%98%D7%91_%D7%A1%D7%95%D7%99%D7%94_18_%D7%9C%D7%99%D7%98%D7%A8_%D7%91%D7%93%D7%9C%D7%99_%D7%A7%D7%99%D7%A7%D7%95%D7%9E%D7%9F-948.jpg",
+        "name": "רוטב סויה 18 ליטר בדלי קיקומן",
+        "code": "948"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%A8%D7%95%D7%98%D7%91_%D7%A1%D7%95%D7%99%D7%94_18_%D7%9C%D7%99%D7%98%D7%A8_%D7%99%D7%90%D7%9E%D7%90%D7%A1%D7%94-9860.jpg",
+        "name": "רוטב סויה 18 ליטר יאמאסה",
+        "code": "9860"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%A8%D7%95%D7%98%D7%91_%D7%A1%D7%95%D7%99%D7%94_500_%D7%9E%D7%B4%D7%9C_%D7%9C%D7%9C%D7%90_%D7%92%D7%9C%D7%95%D7%98%D7%9F-2022.jpg",
+        "name": "רוטב סויה 500 מ״ל ללא גלוטן",
+        "code": "2022"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%A8%D7%95%D7%98%D7%91_%D7%A1%D7%95%D7%99%D7%94_%D7%A1%D7%99%D7%A0%D7%99_4_%D7%9C%D7%99%D7%98%D7%A8_%D7%90%D7%95%D7%A1%D7%9D-183.jpg",
+        "name": "רוטב סויה סיני 4 ליטר אוסם",
+        "code": "183"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/943.jpg",
+        "name": "רוטב סצ'ואן 5 ליטר קנור",
+        "code": "943"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/3906.jpg",
+        "name": "רוטב סריראצ'ה 793 גרם התרנגול",
+        "code": "3906"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/2206.jpg",
+        "name": "רוטב צ'ילי 4 ליטר חריף דה בסט",
+        "code": "2206"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/1464.jpg",
+        "name": "רוטב צ'ילי 4 ליטר מתוק אושן",
+        "code": "1464"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/10163.jpg",
+        "name": "רוטב צ'ילי 5 ליטר מתוק מקצאפ",
+        "code": "10163"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/310.jpg",
+        "name": "רוטב צ'ילי 5 ליטר מתוק קנור",
+        "code": "310"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/10162.jpg",
+        "name": "רוטב צ'ילי 6 ק״ג הלטבוי",
+        "code": "10162"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/3103.jpg",
+        "name": "רוטב צ'ילי 6 ק״ג חריף קנור",
+        "code": "3103"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/10496.jpg",
+        "name": "רוטב צ'ילי מתוק 4 ליטר אוסם",
+        "code": "10496"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/10163wEbw.jpg",
+        "name": "רוטב צ'ילי מתוק 5 ליטר מקצאפ",
+        "code": "10163"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%A8%D7%95%D7%98%D7%91_%D7%A8%D7%93_%D7%94%D7%95%D7%98_3.78_%D7%9C%D7%99%D7%98%D7%A8-10165.jpg",
+        "name": "רוטב רד הוט 3.78 ליטר",
+        "code": "10165"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%A8%D7%95%D7%98%D7%91_%D7%A9%D7%95%D7%9D_4_%D7%9C%D7%99%D7%98%D7%A8_%D7%93%D7%94_%D7%91%D7%A1%D7%98-1980.jpg",
+        "name": "רוטב שום 4 ליטר דה בסט",
+        "code": "1980"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%A8%D7%95%D7%98%D7%91_%D7%A9%D7%95%D7%9D_5_%D7%9C%D7%99%D7%98%D7%A8_%D7%94%D7%9C%D7%9E%D7%A0%D7%A1-1981.jpg",
+        "name": "רוטב שום 5 ליטר הלמנס",
+        "code": "1981"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%A8%D7%95%D7%98%D7%91_%D7%A9%D7%95%D7%9D_%D7%95%D7%93%D7%91%D7%A9_5_%D7%9C%D7%99%D7%98%D7%A8_%D7%A7%D7%A0%D7%95%D7%A8-871.jpg",
+        "name": "רוטב שום ודבש 5 ליטר קנור",
+        "code": "871"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%A8%D7%95%D7%98%D7%91_%D7%A9%D7%95%D7%9D_%D7%9E%D7%A0%D7%95%D7%AA_%D7%9E%D7%99%D7%98%D7%91_500_%D7%99%D7%97%D7%99%D7%93%D7%95%D7%AA-2202.jpg",
+        "name": "רוטב שום מנות מיטב 500 יחידות",
+        "code": "2202"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%A8%D7%95%D7%98%D7%91_%D7%A9%D7%96%D7%99%D7%A4%D7%99%D7%9D_4_%D7%9C%D7%99%D7%98%D7%A8_%D7%93%D7%94_%D7%91%D7%A1%D7%98-858.jpg",
+        "name": "רוטב שזיפים 4 ליטר דה בסט",
+        "code": "858"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%A8%D7%95%D7%98%D7%91_%D7%A9%D7%96%D7%99%D7%A4%D7%99%D7%9D_5_%D7%9C%D7%99%D7%98%D7%A8_%D7%A7%D7%A0%D7%95%D7%A8-201.jpg",
+        "name": "רוטב שזיפים 5 ליטר קנור",
+        "code": "201"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%A8%D7%95%D7%98%D7%91_%D7%AA%D7%90%D7%99%D7%9C%D7%A0%D7%93%D7%99_5_%D7%9C%D7%99%D7%98%D7%A8_%D7%9C%D7%94%D7%A7%D7%A4%D7%A6%D7%94-1555.jpg",
+        "name": "רוטב תאילנדי 5 ליטר להקפצה",
+        "code": "1555"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/halavsoyabrij.jpg",
+        "name": "חלב סויה 1 ליטר 12 יחידות בריג'",
+        "code": "92711"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%97%D7%9C%D7%91_%D7%A1%D7%95%D7%99%D7%94_12_%D7%99%D7%97%D7%99%D7%93%D7%95%D7%AA_%D7%91%D7%9E%D7%90%D7%A8%D7%96_%D7%90%D7%9C%D7%A4%D7%A8%D7%95-19212.jpg",
+        "name": "חלב סויה 12 יחידות במארז אלפרו",
+        "code": "19212"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%99%D7%99%D7%9F_%D7%90%D7%93%D7%95%D7%9D_1_%D7%9C%D7%99%D7%98%D7%A8-8902.jpg",
+        "name": "יין אדום 1 ליטר",
+        "code": "8902"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%99%D7%99%D7%9F_%D7%9C%D7%91%D7%9F_1_%D7%9C%D7%99%D7%98%D7%A8_%D7%9C%D7%91%D7%99%D7%A9%D7%95%D7%9C-8901.jpg",
+        "name": "יין לבן 1 ליטר לבישול",
+        "code": "8901"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%9E%D7%A9%D7%A7%D7%93_%D7%A9%D7%A7%D7%93%D7%99%D7%9D_1_%D7%9C%D7%99%D7%98%D7%A8_%D7%90%D7%9C%D7%A4%D7%A8%D7%95_8_%D7%99%D7%97%D7%99%D7%93%D7%95%D7%AA_%D7%91%D7%9E%D7%90%D7%A8%D7%96-19215.jpg",
+        "name": "משקד שקדים 1 ליטר אלפרו 8 יחידות במארז",
+        "code": "19215"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%A1%D7%95%D7%99%D7%94_%D7%9C%D7%91%D7%99%D7%A9%D7%95%D7%9C_1_%D7%9C%D7%99%D7%98%D7%A8_%D7%90%D7%9C%D7%A4%D7%A8%D7%95-9275.jpg",
+        "name": "סויה לבישול 1 ליטר אלפרו",
+        "code": "9275"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%A1%D7%95%D7%9C%D7%AA_1_%D7%A7%D7%B4%D7%92_%D7%98.%D7%99%D7%A9%D7%A8%D7%90%D7%9C%D7%99%D7%95%D7%AA_10%D7%99%D7%97%D7%99%D7%93%D7%95%D7%AA_%D7%91%D7%9E%D7%90%D7%A8%D7%96-1455.jpg",
+        "name": "סולת 1 ק״ג ט.ישראליות 10 יחידות במארז",
+        "code": "1455"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%A1%D7%95%D7%9C%D7%AA_%D7%A8%D7%95%D7%98_1_%D7%A7%D7%B4%D7%92_10%D7%99%D7%97%D7%99%D7%93%D7%95%D7%AA_%D7%91%D7%9E%D7%90%D7%A8%D7%96-1140.jpg",
+        "name": "סולת מרוט 1 ק״ג 10 יחידות במארז",
+        "code": "1140"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%A4%D7%99%D7%A8%D7%95%D7%A8%D7%99_%D7%9C%D7%97%D7%9D_1_%D7%A7%D7%B4%D7%92_%D7%9E%D7%95%D7%96%D7%94%D7%91_%D7%94%D7%99%D7%9C%D7%93%D7%94-8225.jpg",
+        "name": "פירורי לחם 1 ק״ג מוזהב הילדה",
+        "code": "8225"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%A4%D7%99%D7%A8%D7%95%D7%A8%D7%99_%D7%9C%D7%97%D7%9D_10_%D7%A7%D7%B4%D7%92__%D7%9E%D7%95%D7%96%D7%94%D7%91-178.jpg",
+        "name": "פירורי לחם  מוזהב 10 ק״ג",
+        "code": "178"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%A4%D7%99%D7%A8%D7%95%D7%A8%D7%99_%D7%9C%D7%97%D7%9D_10_%D7%A7%D7%B4%D7%92_%D7%9E%D7%95%D7%96%D7%94%D7%91-8117.jpg",
+        "name": "פירורי לחם 10 ק״ג מוזהב",
+        "code": "8117"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%A4%D7%99%D7%A8%D7%95%D7%A8%D7%99_%D7%9C%D7%97%D7%9D_%D7%A4%D7%A0%D7%A7%D7%95_1_%D7%A7%D7%B4%D7%92-8962.jpg",
+        "name": "פירורי לחם פנקו 1 ק״ג",
+        "code": "8962"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%A4%D7%99%D7%A8%D7%95%D7%A8%D7%99%D7%AA_%D7%90%D7%A1%D7%9D_5_%D7%A7%D7%B4%D7%92-879.jpg",
+        "name": "פירורית אסם 5 ק״ג",
+        "code": "879"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%A7%D7%9E%D7%97_9_%D7%A9%D7%98%D7%99%D7%91%D7%9C___1%D7%A7%D7%B4%D7%92_10%D7%99%D7%97%D7%99%D7%93%D7%95%D7%AA_%D7%91%D7%9E%D7%90%D7%A8%D7%96-1221.jpg",
+        "name": "קמח 9 שטיבל 1 ק״ג 10 יחידות במארז",
+        "code": "1221"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%A7%D7%9E%D7%97_15_%D7%9C%D7%A4%D7%99%D7%A6%D7%94_%D7%A9%D7%98%D7%99%D7%91%D7%9C_10%D7%99%D7%97%D7%99%D7%93%D7%95%D7%AA_%D7%91%D7%9E%D7%90%D7%A8%D7%96-4662.jpg",
+        "name": "קמח 15 לפיצה שטיבל 10 יחידות במארז",
+        "code": "4662"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%A7%D7%9E%D7%97_25_%D7%A7%D7%B4%D7%92_%D7%9E%D7%A2%D7%95%D7%A9%D7%A8_%D7%9E%D7%99%D7%95%D7%A2%D7%93_%D7%9C%D7%9C%D7%97%D7%9D_%D7%A9%D7%98%D7%99%D7%91%D7%9C-1369.jpg",
+        "name": "קמח 25 ק״ג מעושר מיועד ללחם שטיבל",
+        "code": "1369"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%A7%D7%9E%D7%97_%D7%93%D7%92%D7%9F_1_%D7%A7%D7%B4%D7%92_10_%D7%99%D7%97%D7%99%D7%93%D7%95%D7%AA_%D7%91%D7%9E%D7%90%D7%A8%D7%96-1131.jpg",
+        "name": "קמח דגן 1 ק״ג 10 יחידות במארז",
+        "code": "1131"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%A7%D7%9E%D7%97_%D7%9B%D7%95%D7%A1%D7%9E%D7%99%D7%9F_1_%D7%A7%D7%B4%D7%92_9%D7%99%D7%97%D7%99%D7%93%D7%95%D7%AA_%D7%91%D7%A7%D7%A8%D7%98%D7%95%D7%9F-46440.jpg",
+        "name": "קמח כוסמין 1 ק״ג 9 יחידות בקרטון",
+        "code": "46440"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%A7%D7%9E%D7%97_%D7%9C%D7%91%D7%9F_1_%D7%A7%D7%B4%D7%92_10%D7%99%D7%97%D7%99%D7%93%D7%95%D7%AA_%D7%91%D7%9E%D7%90%D7%A8%D7%96_%D7%A8%D7%95%D7%98-12340.jpg",
+        "name": "קמח לבן 1 ק״ג 10 יחידות במארז רוט",
+        "code": "12340"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%A7%D7%9E%D7%97_%D7%9C%D7%91%D7%9F_1_%D7%A7%D7%B4%D7%92_%D7%A2%D7%95%D7%9E%D7%A8_10%D7%99%D7%97%D7%99%D7%93%D7%95%D7%AA_%D7%91%D7%9E%D7%90%D7%A8%D7%96-1245.jpg",
+        "name": "קמח לבן 1 ק״ג עומר 10 יחידות במארז",
+        "code": "1245"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%A7%D7%9E%D7%97_%D7%9C%D7%91%D7%9F_10_%D7%A7%D7%B4%D7%92_%D7%99%D7%A9%D7%A8%D7%90%D7%9C%D7%99%D7%95%D7%AA-1236.jpg",
+        "name": "קמח לבן 10 ק״ג ישראליות",
+        "code": "1236"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%A7%D7%9E%D7%97_%D7%9C%D7%91%D7%9F_%D7%9E%D7%A0%D7%95%D7%A4%D7%94_1_%D7%A7%D7%B4%D7%92_%D7%98.%D7%99%D7%A9%D7%A8%D7%90%D7%9C%D7%99%D7%95%D7%AA_-14465.jpg",
+        "name": "קמח לבן מנופה 1 ק״ג ט.ישראליות",
+        "code": "14465"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%A7%D7%9E%D7%97_%D7%9E%D7%9C%D7%90_1_%D7%A7%D7%B4%D7%92_10%D7%99%D7%97%D7%99%D7%93%D7%95%D7%AA_%D7%91%D7%9E%D7%90%D7%A8%D7%96-1047.jpg",
+        "name": "קמח מלא 1 ק״ג 10 יחידות במארז",
+        "code": "1047"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%A7%D7%9E%D7%97_%D7%9E%D7%A1%D7%A4%D7%A8_2_%D7%A9%D7%98%D7%99%D7%91%D7%9C_10%D7%99%D7%97%D7%99%D7%93%D7%95%D7%AA_%D7%91%D7%9E%D7%90%D7%A8%D7%96-4660.jpg",
+        "name": "קמח מספר 2 שטיבל 10 יחידות במארז",
+        "code": "4660"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%A7%D7%9E%D7%97_%D7%A9%D7%99%D7%A4%D7%95%D7%9F_7_%D7%A9%D7%98%D7%99%D7%91%D7%9C_10%D7%99%D7%97%D7%99%D7%93%D7%95%D7%AA_%D7%91%D7%9E%D7%90%D7%A8%D7%96-1114.jpg",
+        "name": "קמח שיפון 7 שטיבל 10 יחידות במארז",
+        "code": "1114"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%A7%D7%9E%D7%97_%D7%AA%D7%95%D7%A4%D7%97_1_%D7%A7%D7%B4%D7%92_10%D7%99%D7%97%D7%99%D7%93%D7%95%D7%AA_%D7%91%D7%9E%D7%90%D7%A8%D7%96_%D7%90%D7%A1%D7%9D-954.jpg",
+        "name": "קמח תופח 1 ק״ג 10 יחידות במארז אסם",
+        "code": "954"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%A7%D7%9E%D7%97_%D7%AA%D7%95%D7%A4%D7%97_1_%D7%A7%D7%B4%D7%92_%D7%93%D7%92%D7%9F_10%D7%99%D7%97%D7%99%D7%93%D7%95%D7%AA_%D7%91%D7%9E%D7%90%D7%A8%D7%96-1134.jpg",
+        "name": "קמח תופח 1 ק״ג דגן 10 יחידות במארז",
+        "code": "1134"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%A7%D7%9E%D7%97_%D7%AA%D7%95%D7%A4%D7%97_1_%D7%A7%D7%B4%D7%92_%D7%99%D7%A9%D7%A8%D7%90%D7%9C%D7%99%D7%95%D7%AA_10%D7%99%D7%97%D7%99%D7%93%D7%95%D7%AA_%D7%91%D7%9E%D7%90%D7%A8%D7%96-9741.jpg",
+        "name": "קמח תופח 1 ק״ג ישראליות 10 יחידות במארז",
+        "code": "9741"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%90%D7%99%D7%A0%D7%A1%D7%98%D7%A0%D7%98_%D7%A4%D7%95%D7%93%D7%99%D7%A0%D7%92_1_%D7%A7%D7%B4%D7%92_%D7%95%D7%A0%D7%99%D7%9C_%D7%90%D7%A1%D7%9D-138.jpg",
+        "name": "אינסטנט פודינג 1 ק״ג וניל אסם",
+        "code": "138"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%90%D7%99%D7%A0%D7%A1%D7%98%D7%A0%D7%98_%D7%A4%D7%95%D7%93%D7%99%D7%A0%D7%92_%D7%95%D7%A0%D7%99%D7%9C_1_%D7%A7%D7%B4%D7%92_%D7%A9%D7%91%D7%99%D7%98-1383.jpg",
+        "name": "אינסטנט פודינג וניל 1 ק״ג שביט",
+        "code": "1383"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%92%D7%96_%D7%9C%D7%A7%D7%A6%D7%A4%D7%AA_24_%D7%99%D7%97%D7%99%D7%93%D7%95%D7%AA_%D7%91%D7%9E%D7%90%D7%A8%D7%96-605.jpg",
+        "name": "גז לקצפת 24 יחידות במארז",
+        "code": "605"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/jely.jpg",
+        "name": "ג'לי פטל 1 ק״ג דיאט עליון",
+        "code": "8943"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/jelitot.jpg",
+        "name": "ג'לי תות 1 ק״ג אסם",
+        "code": "159"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%93%D7%91%D7%A9_1.5_%D7%A7%D7%B4%D7%92_%D7%A2%D7%9E%D7%A7_%D7%97%D7%A4%D7%A8-1909.jpg",
+        "name": "דבש 1.5 ק״ג עמק חפר",
+        "code": "1909"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%93%D7%91%D7%A9_%D7%9E%D7%A0%D7%95%D7%AA_120%D7%99%D7%97%D7%99%D7%93%D7%95%D7%AA_%D7%91%D7%A7%D7%A8%D7%98%D7%95%D7%9F_%D7%A4%D7%95%D7%92%D7%9C%D7%A1-850.jpg",
+        "name": "דבש מנות 120 יחידות בקרטון פוגלס",
+        "code": "850"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%93%D7%95%D7%91%D7%93%D7%91%D7%9F_7_%D7%A7%D7%B4%D7%92_%D7%9E%D7%A1%D7%95%D7%9B%D7%A8_%D7%9E%D7%99%D7%95%D7%91%D7%A9-2611.jpg",
+        "name": "דובדבן 7 ק״ג מסוכר מיובש",
+        "code": "2611"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%97%D7%9E%D7%90%D7%AA_%D7%91%D7%95%D7%98%D7%A0%D7%99%D7%9D_5_%D7%A7%D7%B4%D7%92_%D7%A9%D7%99%D7%A7%D7%A8%D7%A6%D7%99-10150.jpg",
+        "name": "חמאת בוטנים 5 ק״ג שיקרצי",
+        "code": "10150"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%97%D7%9E%D7%90%D7%AA_%D7%A7%D7%95%D7%A7%D7%95%D7%A1_300_%D7%92%D7%A8%D7%9D-9898.jpg",
+        "name": "חמאת קוקוס 300 גרם",
+        "code": "9898"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%9E%D7%9C%D7%99%D7%AA_13_%D7%A7%D7%B4%D7%92_%D7%90%D7%95%D7%9B%D7%9E%D7%A0%D7%99%D7%95%D7%AA-8442.jpg",
+        "name": "מלית 13 ק״ג אוכמניות",
+        "code": "8442"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%9E%D7%9C%D7%99%D7%AA_18_%D7%A7%D7%B4%D7%92_%D7%AA%D7%A4%D7%95%D7%97_%D7%A2%D7%A5_%D7%9E%D7%A7%D7%95%D7%9C%D7%A3-8441.jpg",
+        "name": "מלית 18 ק״ג תפוח עץ מקולף",
+        "code": "8441"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%9E%D7%9C%D7%99%D7%AA_%D7%A4%D7%A8%D7%92_13_%D7%A7%D7%B4%D7%92-8440.jpg",
+        "name": "מלית פרג 13 ק״ג",
+        "code": "8440"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%9E%D7%9E%D7%A8%D7%97_%D7%A9%D7%95%D7%A7%D7%95%D7%9C%D7%93_5_%D7%A7%D7%B4%D7%92_%D7%9E%D7%99%D7%98%D7%91-9841.jpg",
+        "name": "ממרח שוקולד 5 ק״ג מיטב",
+        "code": "9841"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%9E%D7%9E%D7%A8%D7%97_%D7%A9%D7%95%D7%A7%D7%95%D7%9C%D7%93_%D7%A0%D7%95%D7%98%D7%9C%D7%94_120%D7%99%D7%97%D7%99%D7%93%D7%95%D7%AA_%D7%91%D7%A7%D7%A8%D7%98%D7%95%D7%9F-2811.jpg",
+        "name": "ממרח שוקולד נוטלה 120 יחידות בקרטון",
+        "code": "2811"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%9E%D7%9E%D7%A8%D7%97_%D7%AA%D7%9E%D7%A8%D7%99%D7%9D_22_%D7%A7%D7%B4%D7%92_%D7%91%D7%93%D7%9C%D7%99-942.jpg",
+        "name": "ממרח תמרים 22 ק״ג בדלי",
+        "code": "942"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%A1%D7%99%D7%9C%D7%90%D7%9F_5_%D7%A7%D7%B4%D7%92_%D7%98%D7%A2%D7%9E%D7%99_%D7%94%D7%92%D7%9C%D7%99%D7%9C-9711.jpg",
+        "name": "סילאן 5 ק״ג טעמי הגליל",
+        "code": "9711"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%A1%D7%99%D7%9C%D7%90%D7%9F_900_%D7%92%D7%A8%D7%9D_%D7%98%D7%A2%D7%9E%D7%99_%D7%94%D7%92%D7%9C%D7%99%D7%9C-939.jpg",
+        "name": "סילאן 900 גרם טעמי הגליל",
+        "code": "939"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%A4%D7%95%D7%9C%D7%A0%D7%98%D7%94_%D7%93%D7%A7%D7%94_1_%D7%A7%D7%B4%D7%92-8150.jpg",
+        "name": "פולנטה דקה 1 ק״ג",
+        "code": "8150"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%A7%D7%95%D7%A0%D7%A4%D7%99%D7%98%D7%95%D7%A8%D7%94_778_%D7%AA%D7%95%D7%AA_340_%D7%92%D7%A8%D7%9D-9387.jpg",
+        "name": "קונפיטורה 778 תות 340 גרם",
+        "code": "9387"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%A7%D7%95%D7%A8%D7%A0%D7%A4%D7%9C%D7%95%D7%A8_1_%D7%A7%D7%B4%D7%92_%D7%91%D7%A8%D7%9E%D7%9F-5551.jpg",
+        "name": "קורנפלור 1 ק״ג ברמן",
+        "code": "5551"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%A8%D7%99%D7%91%D7%94_%D7%9E%D7%A0%D7%95%D7%AA_%D7%90%D7%95%D7%9B%D7%9E%D7%A0%D7%99%D7%95%D7%AA_120%D7%99%D7%97%D7%99%D7%93%D7%95%D7%AA_%D7%91%D7%A7%D7%A8%D7%98%D7%95%D7%9F_%D7%A4%D7%95%D7%92%D7%9C%D7%A1-8820.jpg",
+        "name": "ריבה מנות אוכמניות 120 יחידות בקרטון פוגלס",
+        "code": "8820"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%A8%D7%99%D7%91%D7%94_%D7%9E%D7%A0%D7%95%D7%AA_%D7%AA%D7%95%D7%AA_120%D7%99%D7%97%D7%99%D7%93%D7%95%D7%AA_%D7%91%D7%A7%D7%A8%D7%98%D7%95%D7%9F_%D7%A4%D7%95%D7%92%D7%9C%D7%A1-882.jpg",
+        "name": "ריבה מנות תות 120 יחידות בקרטון פוגלס",
+        "code": "882"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%A8%D7%99%D7%91%D7%94_%D7%9E%D7%A9%D7%9E%D7%A9_10_%D7%A7%D7%B4%D7%92_%D7%9E%D7%99%D7%98%D7%91-608.jpg",
+        "name": "ריבה משמש 10 ק״ג מיטב",
+        "code": "608"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%A8%D7%99%D7%91%D7%94_%D7%AA%D7%95%D7%AA_10_%D7%A7%D7%B4%D7%92_%D7%9E%D7%99%D7%98%D7%91-606.jpg",
+        "name": "ריבה תות 10 ק״ג מיטב",
+        "code": "606"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%9E.%D7%A9%D7%95%D7%A7%D7%95%D7%9C%D7%93_400_%D7%92%D7%A8%D7%9D_%D7%97%D7%9C%D7%91%D7%99_%D7%94%D7%A9%D7%97%D7%A8-8975.jpg",
+        "name": "שוקולד 400 גרם חלבי השחר",
+        "code": "8975"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%9E.%D7%A9%D7%95%D7%A7%D7%95%D7%9C%D7%93_500_%D7%92%D7%A8%D7%9D_%D7%97%D7%9C%D7%91%D7%99_%D7%94%D7%A9%D7%97%D7%A8-8970.jpg",
+        "name": "שוקולד 500 גרם חלבי השחר",
+        "code": "8970"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%A0%D7%99%D7%95%D7%A7%D7%99_500_%D7%92%D7%A8%D7%9D_%D7%AA%D7%A4%D7%95%D7%97_%D7%90%D7%93%D7%9E%D7%94_%D7%AA%D7%95%D7%A6%D7%A8%D7%AA_%D7%97%D7%95%D7%A5-7153.jpg",
+        "name": "ניוקי 500 גרם תפוח אדמה תוצרת חוץ",
+        "code": "7153"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%A1%D7%A4%D7%92%D7%98%D7%99_5_%D7%A7%D7%B4%D7%92_%D7%90%D7%99%D7%98%D7%9C%D7%A7%D7%99_%D7%A9%D7%91%D7%99-8891.jpg",
+        "name": "ספגטי 5 ק״ג איטלקי שבי",
+        "code": "8891"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%A4.%D7%A4%D7%A0%D7%94_400_%D7%92%D7%A8%D7%9D_14%D7%99%D7%97%D7%99%D7%93%D7%95%D7%AA_%D7%9C%D7%9C%D7%90_%D7%92%D7%9C%D7%95%D7%98%D7%9F_%D7%91%D7%A8%D7%99%D7%9C%D7%94-77371.jpg",
+        "name": "פ.פנה 400 גרם 14 יחידות ללא גלוטן ברילה",
+        "code": "77371"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%A4%D7%98%D7%95%D7%A6%D7%99%D7%A0%D7%99_%D7%A9%D7%98%D7%95%D7%97_10_%D7%A7%D7%B4%D7%92_%D7%A7%D7%A0%D7%95%D7%A8-8423.jpg",
+        "name": "פטוציני שטוח 10 ק״ג קנור",
+        "code": "8423"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%A4%D7%A1%D7%98%D7%94_500_%D7%92%D7%A8%D7%9D_%D7%9E%D7%A1%D7%95%D7%9C%D7%A1%D7%9C_%D7%A6%D7%91%D7%A2%D7%95%D7%A0%D7%99_24_%D7%99%D7%97%D7%99%D7%93%D7%95%D7%AA_%D7%91%D7%A7%D7%A8%D7%98%D7%95%D7%9F-1016.jpg",
+        "name": "פסטה 500 גרם מסולסל צבעוני 24 יחידות בקרטון",
+        "code": "1016"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%A4%D7%A1%D7%98%D7%94_%D7%97%D7%A6%D7%99_%D7%A1%D7%94%D7%A8_%D7%97%D7%99%D7%98%D7%94_%D7%9E%D7%9C%D7%90%D7%94_10_%D7%A7%D7%B4%D7%92_%D7%A7%D7%A0%D7%95%D7%A8-8525.jpg",
+        "name": "פסטה חצי סהר חיטה מלאה 10 ק״ג קנור",
+        "code": "8525"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%A4%D7%A1%D7%98%D7%94_%D7%9E%D7%A1%D7%95%D7%9C%D7%A1%D7%9C_5_%D7%A7%D7%B4%D7%92_%D7%90%D7%99%D7%98%D7%9C%D7%A7%D7%99_%D7%A9%D7%91%D7%99-8558.jpg",
+        "name": "פסטה מסולסל 5 ק״ג איטלקי שבי",
+        "code": "8558"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%A4%D7%A1%D7%98%D7%94_%D7%9E%D7%A1%D7%95%D7%9C%D7%A1%D7%9C_%D7%A6%D7%91%D7%A2%D7%95%D7%A0%D7%99_5_%D7%A7%D7%B4%D7%92_%D7%A7%D7%A0%D7%95%D7%A8-8124.jpg",
+        "name": "פסטה מסולסל צבעוני 5 ק״ג קנור",
+        "code": "8124"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%A4%D7%A1%D7%98%D7%94_%D7%A4%D7%A0%D7%94_5_%D7%A7%D7%B4%D7%92_%D7%90%D7%99%D7%98%D7%9C%D7%A7%D7%99_%D7%A9%D7%91%D7%99-9310.jpg",
+        "name": "פסטה פנה 5 ק״ג איטלקי שבי",
+        "code": "9310"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%A4%D7%AA%D7%99%D7%AA%D7%99%D7%9D_10_%D7%A7%D7%B4%D7%92_%D7%90%D7%95%D7%A8%D7%96_%D7%90%D7%A1%D7%9D-151.jpg",
+        "name": "פתיתים 10 ק״ג אורז אסם",
+        "code": "151"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%A4%D7%AA%D7%99%D7%AA%D7%99%D7%9D_10_%D7%A7%D7%B4%D7%92_%D7%A2%D7%92%D7%95%D7%9C%D7%99%D7%9D_%D7%90%D7%A1%D7%9D-152.jpg",
+        "name": "פתיתים 10 ק״ג עגולים אסם",
+        "code": "152"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%A4%D7%AA%D7%99%D7%AA%D7%99%D7%9D_%D7%90%D7%95%D7%A8%D7%96_10_%D7%A7%D7%B4%D7%92_%D7%93%D7%95%D7%99%D7%93%D7%95%D7%91%D7%99%D7%A5-81930.jpg",
+        "name": "פתיתים אורז 10 ק״ג דוידוביץ",
+        "code": "81930"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%A4%D7%AA%D7%99%D7%AA%D7%99%D7%9D_%D7%A2%D7%92%D7%95%D7%9C%D7%99%D7%9D_10_%D7%A7%D7%B4%D7%92_%D7%93%D7%95%D7%99%D7%93%D7%95%D7%91%D7%99%D7%A5-8193.jpg",
+        "name": "פתיתים עגולים 10 ק״ג דוידוביץ",
+        "code": "8193"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%A7%D7%95%D7%A1%D7%A7%D7%95%D7%A1_10_%D7%A7%D7%B4%D7%92_%D7%90%D7%A1%D7%9D-8174.jpg",
+        "name": "קוסקוס 10 ק״ג אסם",
+        "code": "8174"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%A7%D7%95%D7%A1%D7%A7%D7%95%D7%A1_10_%D7%A7%D7%B4%D7%92_%D7%93%D7%95%D7%99%D7%93%D7%95%D7%91%D7%99%D7%A5-8176.jpg",
+        "name": "קוסקוס 10 ק״ג דוידוביץ",
+        "code": "8176"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%A7%D7%95%D7%A1%D7%A7%D7%95%D7%A1_%D7%93%D7%A7_5_%D7%A7%D7%B4%D7%92_%D7%90%D7%A1%D7%9D-8180.jpg",
+        "name": "קוסקוס דק 5 ק״ג אסם",
+        "code": "8180"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%A7%D7%95%D7%A1%D7%A7%D7%95%D7%A1_%D7%97%D7%99%D7%98%D7%94_%D7%9E%D7%9C%D7%90%D7%94_5_%D7%A7%D7%B4%D7%92_%D7%90%D7%A1%D7%9D-8175.jpg",
+        "name": "קוסקוס חיטה מלאה 5 ק״ג אסם",
+        "code": "8175"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%A7%D7%A0%D7%9C%D7%95%D7%A0%D7%99_250_%D7%92%D7%A8%D7%9D_12_%D7%99%D7%97%D7%99%D7%93%D7%95%D7%AA_%D7%91%D7%9E%D7%90%D7%A8%D7%96-5712.jpg",
+        "name": "קנלוני 250 גרם 12 יחידות במארז",
+        "code": "5712"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%A1%D7%99%D7%A8%D7%95%D7%A4_1_%D7%A7%D7%B4%D7%92_%D7%92%D7%9C%D7%95%D7%A7%D7%95%D7%96%D7%94-92440.jpg",
+        "name": "סירופ 1 ק״ג גלוקוזה",
+        "code": "92440"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%A1%D7%99%D7%A8%D7%95%D7%A4_4_%D7%9C%D7%99%D7%98%D7%A8_%D7%91%D7%98%D7%A2%D7%9D_%D7%A2%D7%A0%D7%91%D7%99%D7%9D_%D7%93%D7%99%D7%90%D7%98-9021.jpg",
+        "name": "סירופ 4 ליטר בטעם ענבים דיאט",
+        "code": "9021"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%A1%D7%99%D7%A8%D7%95%D7%A4_4_%D7%9C%D7%99%D7%98%D7%A8_%D7%91%D7%98%D7%A2%D7%9D_%D7%A2%D7%A0%D7%91%D7%99%D7%9D-9027.jpg",
+        "name": "סירופ 4 ליטר בטעם ענבים",
+        "code": "9027"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%A1%D7%99%D7%A8%D7%95%D7%A4_4_%D7%9C%D7%99%D7%98%D7%A8_%D7%91%D7%98%D7%A2%D7%9D_%D7%A4%D7%98%D7%9C_%D7%93%D7%99%D7%90%D7%98-902.jpg",
+        "name": "סירופ 4 ליטר בטעם פטל דיאט",
+        "code": "902"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%A1%D7%99%D7%A8%D7%95%D7%A4_4_%D7%9C%D7%99%D7%98%D7%A8_%D7%91%D7%98%D7%A2%D7%9D_%D7%A4%D7%98%D7%9C-9028.jpg",
+        "name": "סירופ 4 ליטר בטעם פטל",
+        "code": "9028"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%A1%D7%99%D7%A8%D7%95%D7%A4_4_%D7%9C%D7%99%D7%98%D7%A8_%D7%91%D7%98%D7%A2%D7%9D_%D7%AA%D7%95%D7%AA_%D7%91%D7%A0%D7%A0%D7%94-9036.jpg",
+        "name": "סירופ 4 ליטר בטעם תות בננה",
+        "code": "9036"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%A1%D7%99%D7%A8%D7%95%D7%A4_4_%D7%9C%D7%99%D7%98%D7%A8_%D7%91%D7%98%D7%A2%D7%9D_%D7%AA%D7%A4%D7%95%D7%96-9030.jpg",
+        "name": "סירופ 4 ליטר בטעם תפוז",
+        "code": "9030"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%A1%D7%99%D7%A8%D7%95%D7%A4_%D7%9C%D7%9E%D7%9C%D7%91%D7%99_2_%D7%9C%D7%99%D7%98%D7%A8_%D7%A8%D7%90%D7%95%D7%91%D7%9F-9501.jpg",
+        "name": "סירופ למלבי 2 ליטר ראובן",
+        "code": "9501"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%A1%D7%99%D7%A8%D7%95%D7%A4_%D7%9C%D7%A7%D7%A4%D7%94_1_%D7%9C%D7%99%D7%98%D7%A8_%D7%91%D7%98%D7%A2%D7%9D_%D7%90%D7%92%D7%95%D7%96%D7%99%D7%9D-8671.jpg",
+        "name": "סירופ לקפה 1 ליטר בטעם אגוזים",
+        "code": "8671"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%A1%D7%99%D7%A8%D7%95%D7%A4_%D7%9C%D7%A7%D7%A4%D7%94_1_%D7%9C%D7%99%D7%98%D7%A8_%D7%91%D7%98%D7%A2%D7%9D_%D7%90%D7%99%D7%99%D7%A8%D7%99%D7%A9_%D7%A7%D7%A8%D7%99%D7%9D-8673.jpg",
+        "name": "סירופ לקפה 1 ליטר בטעם אייריש קרים",
+        "code": "8673"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%A1%D7%99%D7%A8%D7%95%D7%A4_%D7%9C%D7%A7%D7%A4%D7%94_1_%D7%9C%D7%99%D7%98%D7%A8_%D7%91%D7%98%D7%A2%D7%9D_%D7%95%D7%A0%D7%99%D7%9C-8674.jpg",
+        "name": "סירופ לקפה 1 ליטר בטעם וניל",
+        "code": "8674"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%A1%D7%99%D7%A8%D7%95%D7%A4_%D7%9C%D7%A7%D7%A4%D7%94_1_%D7%9C%D7%99%D7%98%D7%A8_%D7%91%D7%98%D7%A2%D7%9D_%D7%A7%D7%A8%D7%9E%D7%9C-8672.jpg",
+        "name": "סירופ לקפה 1 ליטר בטעם קרמל",
+        "code": "8672"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%A1%D7%99%D7%A8%D7%95%D7%A4_%D7%9E%D7%99%D7%99%D7%A4%D7%9C_5_%D7%9C%D7%99%D7%98%D7%A8_%D7%94%D7%99%D7%9C%D7%93%D7%94-8521.jpg",
+        "name": "סירופ מייפל 5 ליטר הילדה",
+        "code": "8521"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%A1%D7%99%D7%A8%D7%95%D7%A4_%D7%A9%D7%95%D7%A7%D7%95%D7%9C%D7%93_5_%D7%A7%D7%B4%D7%92_%D7%9E%D7%98%D7%A2-860.jpg",
+        "name": "סירופ שוקולד 5 ק״ג מטע",
+        "code": "860"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%AA%D7%A8%D7%9B%D7%99%D7%96_%D7%9C%D7%91%D7%A8%D7%93_4_%D7%9C%D7%99%D7%98%D7%A8_%D7%91%D7%98%D7%A2%D7%9D_%D7%AA%D7%95%D7%AA_%D7%A8%D7%90%D7%95%D7%91%D7%9F-95081.jpg",
+        "name": "תרכיז לברד 4 ליטר בטעם תות ראובן",
+        "code": "95081"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%AA%D7%A8%D7%9B%D7%99%D7%96_%D7%9C%D7%91%D7%A8%D7%93_4_%D7%9C%D7%99%D7%98%D7%A8_%D7%91%D7%98%D7%A2%D7%9D_%D7%AA%D7%A4%D7%95%D7%96%D7%99%D7%9D__%D7%A8%D7%90%D7%95%D7%91%D7%9F-9595.jpg",
+        "name": "תרכיז לברד 4 ליטר בטעם תפוזים ראובן",
+        "code": "9595"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%90%D7%99%D7%98%D7%A8%D7%99%D7%95%D7%AA_%D7%90%D7%95%D7%A8%D7%96_454_%D7%92%D7%A8%D7%9D_3_%D7%9E%D7%B4%D7%9C-952.jpg",
+        "name": "איטריות אורז 454 גרם 3 מ״ל",
+        "code": "952"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%90%D7%A6%D7%95%D7%AA_%D7%94%D7%99%D7%96%D7%99%D7%A7%D7%99_250_%D7%92%D7%A8%D7%9D-84642.jpg",
+        "name": "אצות היזיקי 250 גרם",
+        "code": "84642"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%90%D7%A6%D7%95%D7%AA_%D7%95%D7%95%D7%90%D7%A7%D7%9E%D7%94_500_%D7%92%D7%A8%D7%9D-8464.jpg",
+        "name": "אצות וואקמה 500 גרם",
+        "code": "8464"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%90%D7%A6%D7%95%D7%AA_%D7%A0%D7%95%D7%A8%D7%99_10_%D7%93%D7%A3-1032.jpg",
+        "name": "אצות נורי 10 דף",
+        "code": "1032"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%90%D7%A6%D7%95%D7%AA_%D7%A7%D7%95%D7%9E%D7%91%D7%95_500_%D7%92%D7%A8%D7%9D-2016.jpg",
+        "name": "אצות קומבו 500 גרם",
+        "code": "2016"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/ginger.jpg",
+        "name": "ג'ינג'ר כבוש 1 ק״ג",
+        "code": "4500"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%93%D7%A4%D7%99_%D7%90%D7%95%D7%A8%D7%96_400_%D7%92%D7%A8%D7%9D-9522.jpg",
+        "name": "דפי אורז 400 גרם",
+        "code": "9522"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%97%D7%95%D7%9E%D7%A5_%D7%90%D7%95%D7%A8%D7%96_500_%D7%9E%D7%B4%D7%9C-1115.jpg",
+        "name": "חומץ אורז 500 מ״ל",
+        "code": "1115"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%97%D7%98%D7%99%D7%A3_%D7%90%D7%A4%D7%95%D7%A0%D7%94_1_%D7%A7%D7%B4%D7%92_%D7%9E%D7%A6%D7%95%D7%A4%D7%94_%D7%95%D7%95%D7%90%D7%A1%D7%91%D7%99-1965.jpg",
+        "name": "חטיף אפונה 1 ק״ג מצופה וואסבי",
+        "code": "1965"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%98%D7%A4%D7%99%D7%95%D7%A7%D7%94_500_%D7%92%D7%A8%D7%9D_%D7%92%D7%A8%D7%92%D7%99%D7%A8%D7%99%D7%9D-1784.jpg",
+        "name": "טפיוקה 500 גרם גרגירים",
+        "code": "1784"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%9E%D7%97%D7%99%D7%AA_%D7%A7%D7%90%D7%A8%D7%99_1_%D7%A7%D7%B4%D7%92_%D7%90%D7%93%D7%95%D7%9D-8453.jpg",
+        "name": "מחית קארי 1 ק״ג אדום",
+        "code": "8453"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%9E%D7%97%D7%99%D7%AA_%D7%A7%D7%90%D7%A8%D7%99_1_%D7%A7%D7%B4%D7%92_%D7%99%D7%A8%D7%95%D7%A7-5141.jpg",
+        "name": "מחית קארי 1 ק״ג ירוק",
+        "code": "5141"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%9E%D7%97%D7%99%D7%AA_%D7%A7%D7%90%D7%A8%D7%99_1_%D7%A7%D7%B4%D7%92_%D7%A6%D7%94%D7%95%D7%91-8451.jpg",
+        "name": "מחית קארי 1 ק״ג צהוב",
+        "code": "8451"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%9E%D7%99%D7%A1%D7%95_%D7%91%D7%94%D7%99%D7%A8_1_%D7%A7%D7%B4%D7%92-2814.jpg",
+        "name": "מיסו בהיר 1 ק״ג",
+        "code": "2814"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%9E%D7%99%D7%A1%D7%95_%D7%9B%D7%94%D7%94_500_%D7%92%D7%A8%D7%9D-2815.jpg",
+        "name": "מיסו כהה 500 גרם",
+        "code": "2815"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%9E%D7%99%D7%A8%D7%99%D7%9F_500_%D7%9E%D7%B4%D7%9C-1007.jpg",
+        "name": "מירין 500 מ״ל",
+        "code": "1007"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%A4%D7%98%D7%A8%D7%99%D7%95%D7%AA_%D7%A9%D7%99%D7%98%D7%90%D7%A7%D7%99_1_%D7%A7%D7%B4%D7%92-2945.jpg",
+        "name": "פטריות שיטאקי 1 ק״ג",
+        "code": "2945"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%A9%D7%91%D7%91%D7%99_%D7%A7%D7%95%D7%A7%D7%95%D7%A1_500_%D7%92%D7%A8%D7%9D-485.jpg",
+        "name": "שבבי קוקוס 500 גרם",
+        "code": "485"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%A0%D7%95%D7%93%D7%9C%D7%A1_%D7%9C%D7%99%D7%95%D7%9F_9_%D7%A7%D7%B4%D7%92_%D7%9E.%D7%95%D7%9E%D7%A2%D7%A8%D7%91-1039.jpg",
+        "name": "נודלס ליון 9 ק״ג",
+        "code": "1039"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%9E%D7%99%D7%A8%D7%99%D7%9F_18_%D7%9C%D7%99%D7%98%D7%A8_%D7%9E.%D7%95%D7%9E%D7%A2%D7%A8%D7%91-10061YhVu.jpg",
+        "name": "מירין 18 ליטר",
+        "code": "10061"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%97%D7%9C%D7%91%D7%94_400_%D7%92%D7%A8%D7%9D_%D7%9E%D7%A1%D7%95%D7%9C%D7%A1%D7%9C%D7%AA_%D7%A0%D7%A6%D7%A8%D7%AA-1156.jpg",
+        "name": "חלווה 400 גרם מסולסלת נצרת",
+        "code": "1156"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%97%D7%9C%D7%91%D7%94_500_%D7%92%D7%A8%D7%9D_%D7%95%D7%A0%D7%99%D7%9C_%D7%A2%D7%93%D7%9F-1500.jpg",
+        "name": "חלווה 500 גרם וניל עדן",
+        "code": "1500"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%97%D7%9C%D7%95%D7%95%D7%94_%D7%9E%D7%A0%D7%95%D7%AA_240_%D7%99%D7%97%D7%99%D7%93%D7%95%D7%AA_%D7%91%D7%A7%D7%A8%D7%98%D7%95%D7%9F_%D7%90%D7%97%D7%95%D7%95%D7%94-1498.jpg",
+        "name": "חלווה מנות 240 יחידות בקרטון אחווה",
+        "code": "1498"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%98%D7%97%D7%99%D7%A0%D7%94_3_%D7%A7%D7%B4%D7%92_%D7%90%D7%9C_%D7%90%D7%A8%D7%96-1983.jpg",
+        "name": "טחינה 3 ק״ג אל ארז",
+        "code": "1983"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%98%D7%97%D7%99%D7%A0%D7%94_17_%D7%A7%D7%B4%D7%92_%D7%90%D7%9C_%D7%90%D7%97%D7%9C%D7%9D_%D7%A9%D7%91%D7%99-11501.jpg",
+        "name": "טחינה 17 ק״ג אל אחלם שבי",
+        "code": "11501"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%98%D7%97%D7%99%D7%A0%D7%94_17_%D7%A7%D7%B4%D7%92_%D7%90%D7%9C_%D7%90%D7%A8%D7%96-10921.jpg",
+        "name": "טחינה 17 ק״ג אל ארז",
+        "code": "10921"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%98%D7%97%D7%99%D7%A0%D7%94_17_%D7%A7%D7%B4%D7%92_%D7%90%D7%9C%D7%95%D7%95%D7%90%D7%93%D7%99-1092.jpg",
+        "name": "טחינה 17 ק״ג אלוואדי",
+        "code": "1092"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%98%D7%97%D7%99%D7%A0%D7%94_17_%D7%A7%D7%B4%D7%92_%D7%90%D7%9C%D7%A8%D7%95%D7%96%D7%A0%D7%90-1945.jpg",
+        "name": "טחינה 17 ק״ג אלרוזנא",
+        "code": "1945"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%98%D7%97%D7%99%D7%A0%D7%94_17_%D7%A7%D7%B4%D7%92_%D7%99%D7%95%D7%A0%D7%94-1150.jpg",
+        "name": "טחינה 17 ק״ג יונה",
+        "code": "1150"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%9E%D7%9E%D7%A8%D7%97_%D7%97%D7%9C%D7%91%D7%94_5_%D7%A7%D7%B4%D7%92_%D7%91%D7%90%D7%9C%D7%99-1099.jpg",
+        "name": "ממרח חלווה 5 ק״ג באלי",
+        "code": "1099"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%98%D7%97%D7%99%D7%A0%D7%94_17_%D7%A7%D7%B4%D7%92_%D7%A0%D7%A1%D7%99%D7%9A-1095_(2)pzw0.jpg",
+        "name": "טחינה 17 ק״ג נסיך",
+        "code": "1095"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/jel.jpg",
+        "name": "אקונומיקה 4 ליטר 4 יחידות בקרטון ג'ל",
+        "code": "7013"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%90%D7%A7%D7%95%D7%A0%D7%95%D7%9E%D7%99%D7%A7%D7%94_4_%D7%9C%D7%99%D7%98%D7%A8_4%D7%99%D7%97%D7%99%D7%93%D7%95%D7%AA_%D7%91%D7%A7%D7%A8%D7%98%D7%95%D7%9F_%D7%9E%D7%91%D7%95%D7%A9%D7%9E%D7%AA-7010.jpg",
+        "name": "אקונומיקה 4 ליטר 4 יחידות בקרטון מבושמת",
+        "code": "7010"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%9E%D7%91%D7%A8%D7%99%D7%A7_10_%D7%A7%D7%B4%D7%92_%D7%9C%D7%9E%D7%93%D7%99%D7%97-7017.jpg",
+        "name": "מבריק 10 ק״ג למדיח",
+        "code": "7017"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%9E%D7%A1%D7%99%D7%A8_%D7%A9%D7%95%D7%9E%D7%9F_4_%D7%9C%D7%99%D7%98%D7%A8_%D7%90%D7%A8%D7%95%D7%96_4%D7%99%D7%97%D7%99%D7%93%D7%95%D7%AA_%D7%91%D7%A7%D7%A8%D7%98%D7%95%D7%9F-7011.jpg",
+        "name": "מסיר שומן 4 ליטר ארוז 4 יחידות בקרטון",
+        "code": "7011"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%9E%D7%A9%D7%97%D7%AA_%D7%9B%D7%9C%D7%99%D7%9D_16%D7%A7%D7%B4%D7%92-7019.jpg",
+        "name": "משחת כלים 16 ק״ג",
+        "code": "7019"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%A0%D7%95%D7%96%D7%9C_%D7%97%D7%9C%D7%95%D7%A0%D7%95%D7%AA_4_%D7%9C%D7%99%D7%98%D7%A8-744.jpg",
+        "name": "נוזל חלונות 4 ליטר",
+        "code": "744"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%A0%D7%95%D7%96%D7%9C_%D7%99%D7%93%D7%99%D7%99%D7%9D_4_%D7%9C%D7%99%D7%98%D7%A8_4%D7%99%D7%97%D7%99%D7%93%D7%95%D7%AA_%D7%91%D7%A7%D7%A8%D7%98%D7%95%D7%9F-7022.jpg",
+        "name": "נוזל ידיים 4 ליטר 4 יחידות בקרטון",
+        "code": "7022"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%A0%D7%95%D7%96%D7%9C_%D7%9B%D7%9C%D7%99%D7%9D_4_%D7%9C%D7%99%D7%98%D7%A8_4_%D7%99%D7%97%D7%99%D7%93%D7%99%D7%95%D7%AA_%D7%91%D7%A7%D7%A8%D7%98%D7%95%D7%9F-7016.jpg",
+        "name": "נוזל כלים 4 ליטר 4 יחידות בקרטון",
+        "code": "7016"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%A0%D7%95%D7%96%D7%9C_%D7%9C%D7%9E%D7%93%D7%99%D7%97_12_%D7%A7%D7%B4%D7%92-7018.jpg",
+        "name": "נוזל למדיח 12 ק״ג",
+        "code": "7018"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%A8%D7%99%D7%A6%D7%A4%D7%96_4_%D7%9C%D7%99%D7%98%D7%A8_%D7%90%D7%A8%D7%95%D7%96_4%D7%99%D7%97%D7%99%D7%93%D7%95%D7%AA_%D7%91%D7%A7%D7%A8%D7%98%D7%95%D7%9F-7015.jpg",
+        "name": "ריצפז 4 ליטר ארוז 4 יחידות בקרטון",
+        "code": "7015"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%97%D7%95%D7%9E%D7%A5_2_%D7%9C%D7%99%D7%98%D7%A8_%D7%A2%D7%A1%D7%99%D7%A1-9471.jpg",
+        "name": "חומץ 2 ליטר עסיס",
+        "code": "9471"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%97%D7%95%D7%9E%D7%A5_4_%D7%9C%D7%99%D7%98%D7%A8_%D7%99%D7%A9%D7%A8_%D7%9E%D7%9F_%D7%94%D7%A2%D7%A5-8401.jpg",
+        "name": "חומץ 4 ליטר ישר מן העץ",
+        "code": "8401"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%97%D7%95%D7%9E%D7%A5_%D7%91.%D7%99%D7%99%D7%9F_5_%D7%9C%D7%99%D7%98%D7%A8_%D7%90%D7%93%D7%95%D7%9D-907.jpg",
+        "name": "חומץ ביין 5 ליטר אדום",
+        "code": "907"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%97%D7%95%D7%9E%D7%A5_%D7%91.%D7%99%D7%99%D7%9F_5_%D7%9C%D7%99%D7%98%D7%A8_%D7%9C%D7%91%D7%9F-9071.jpg",
+        "name": "חומץ ביין 5 ליטר לבן",
+        "code": "9071"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%97%D7%95%D7%9E%D7%A5_%D7%91.%D7%99%D7%99%D7%9F_%D7%9C%D7%91%D7%9F_4_%D7%9C%D7%99%D7%98%D7%A8_%D7%A0%D7%90%D7%9E%D7%9F-1223.jpg",
+        "name": "חומץ ביין לבן 4 ליטר נאמן",
+        "code": "1223"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%97%D7%95%D7%9E%D7%A5_%D7%91%D7%9C%D7%A1%D7%9E%D7%99_5_%D7%9C%D7%99%D7%98%D7%A8_%D7%90%D7%99%D7%98%D7%9C%D7%A7%D7%99_%D7%A4%D7%95%D7%A0%D7%98%D7%99-10013.jpg",
+        "name": "חומץ בלסמי 5 ליטר איטלקי פונטי",
+        "code": "10013"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%97%D7%95%D7%9E%D7%A5_%D7%91%D7%9C%D7%A1%D7%9E%D7%99_5_%D7%9C%D7%99%D7%98%D7%A8_%D7%9E%D7%95%D7%93%D7%A0%D7%94-10010.jpg",
+        "name": "חומץ בלסמי 5 ליטר מודנה",
+        "code": "10010"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%97%D7%95%D7%9E%D7%A5_%D7%98%D7%91%D7%A2%D7%99_4_%D7%9C%D7%99%D7%98%D7%A8_%D7%94%D7%99%D7%9C%D7%9C-840.jpg",
+        "name": "חומץ טבעי 4 ליטר הילל",
+        "code": "840"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%97%D7%95%D7%9E%D7%A5_%D7%99%D7%9B%D7%99%D7%9F_4_%D7%9C%D7%99%D7%98%D7%A8-837.jpg",
+        "name": "חומץ יכין 4 ליטר",
+        "code": "837"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%97%D7%95%D7%9E%D7%A5_%D7%AA%D7%A4%D7%95%D7%97%D7%99%D7%9D_946_%D7%9E%D7%B4%D7%9C-1034.jpg",
+        "name": "חומץ תפוחים 946 מ״ל",
+        "code": "1034"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%9C%D7%99%D7%9E%D7%95%D7%9F_4_%D7%9C%D7%99%D7%98%D7%A8_%D7%9E%D7%A9%D7%95%D7%9E%D7%A8_%D7%A9%D7%9C_%D7%A9%D7%9E%D7%A9-8391.jpg",
+        "name": "לימון 4 ליטר משומר של שמש",
+        "code": "8391"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%9C%D7%99%D7%9E%D7%95%D7%9F_%D7%9E%D7%A9%D7%95%D7%9E%D7%A8_2_%D7%9C%D7%99%D7%98%D7%A8_%D7%A2%D7%A1%D7%99%D7%A1-2360.jpg",
+        "name": "לימון משומר 2 ליטר עסיס",
+        "code": "2360"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%9C%D7%99%D7%9E%D7%95%D7%9F_%D7%9E%D7%A9%D7%95%D7%9E%D7%A8_4_%D7%9C%D7%99%D7%98%D7%A8_%D7%99%D7%9B%D7%99%D7%9F-838.jpg",
+        "name": "לימון משומר 4 ליטר יכין",
+        "code": "838"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%9C%D7%99%D7%9E%D7%95%D7%9F_%D7%9E%D7%A9%D7%95%D7%9E%D7%A8_4_%D7%9C%D7%99%D7%98%D7%A8_%D7%99%D7%A9%D7%A8_%D7%9E%D7%9F_%D7%94%D7%A2%D7%A5-9101.jpg",
+        "name": "לימון משומר 4 ליטר ישר מן העץ",
+        "code": "9101"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%90%D7%95%D7%96_%D7%A4%D7%A8%D7%A1%D7%99_25_%D7%A7%D7%B4%D7%92_%D7%97%D7%AA%D7%95%D7%9C%D7%99%D7%9D-4281.jpg",
+        "name": "אורז פרסי 25 ק״ג חתולים",
+        "code": "4281"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%90%D7%95%D7%A8%D7%96_%D7%90%D7%93%D7%95%D7%9D_1_%D7%A7%D7%B4%D7%92_%D7%A1%D7%95%D7%92%D7%AA-4602.jpg",
+        "name": "אורז אדום 1 ק״ג סוגת",
+        "code": "4602"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%90%D7%95%D7%A8%D7%96_%D7%90%D7%95%D7%A1%D7%98%D7%A8%D7%9C%D7%99_5_%D7%A7%D7%B4%D7%92-4295.jpg",
+        "name": "אורז אוסטרלי 5 ק״ג",
+        "code": "4295"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%90%D7%95%D7%A8%D7%96_%D7%91%D7%A1%D7%9E%D7%98%D7%99_5_%D7%A7%D7%B4%D7%92_%D7%93%D7%94%D7%95%D7%95%D7%98-4623.jpg",
+        "name": "אורז בסמטי 5 ק״ג דהווט",
+        "code": "4623"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%90%D7%95%D7%A8%D7%96_%D7%91%D7%A1%D7%9E%D7%98%D7%99_5_%D7%A7%D7%B4%D7%92_%D7%A9%D7%A7%D7%99%D7%AA_%D7%9B%D7%97%D7%95%D7%9C%D7%94-4638.jpg",
+        "name": "אורז בסמטי 5 ק״ג שקית כחולה",
+        "code": "4638"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%90%D7%95%D7%A8%D7%96_%D7%99%D7%A1%D7%9E%D7%99%D7%9F_5_%D7%A7%D7%B4%D7%92_%D7%A4%D7%A8%D7%97_%D7%A1%D7%92%D7%95%D7%9C-4369.jpg",
+        "name": "אורז יסמין 5 ק״ג פרח סגול",
+        "code": "4369"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%90%D7%95%D7%A8%D7%96_%D7%99%D7%A1%D7%9E%D7%99%D7%9F_5_%D7%A7%D7%B4%D7%92_%D7%A4%D7%A8%D7%A4%D7%A8-4365.jpg",
+        "name": "אורז יסמין 5 ק״ג פרפר",
+        "code": "4365"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%90%D7%95%D7%A8%D7%96_%D7%99%D7%A1%D7%9E%D7%99%D7%9F_25_%D7%A7%D7%B4%D7%92_%D7%A4%D7%A8%D7%97_%D7%90%D7%93%D7%95%D7%9D-4371.jpg",
+        "name": "אורז יסמין 25 ק״ג פרח אדום",
+        "code": "4371"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%90%D7%95%D7%A8%D7%96_%D7%99%D7%A1%D7%9E%D7%99%D7%9F_25_%D7%A7%D7%B4%D7%92_%D7%A4%D7%A8%D7%97_%D7%A6%D7%94%D7%95%D7%91-4370.jpg",
+        "name": "אורז יסמין 25 ק״ג פרח צהוב",
+        "code": "4370"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%90%D7%95%D7%A8%D7%96_%D7%99%D7%A1%D7%9E%D7%99%D7%9F_%D7%90%D7%A8%D7%95%D7%96_5_%D7%A7%D7%B4%D7%92_%D7%A9%D7%95%D7%A7%D7%97%D7%94-4366.jpg",
+        "name": "אורז יסמין ארוז 5 ק״ג שוקחה",
+        "code": "4366"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%90%D7%95%D7%A8%D7%96_%D7%9C%D7%A1%D7%95%D7%A9%D7%99_1_%D7%A7%D7%B4%D7%92_%D7%A1%D7%95%D7%92%D7%AA_12_%D7%99%D7%97%D7%99%D7%93%D7%95%D7%AA_%D7%91%D7%9E%D7%90%D7%A8%D7%96-4601.jpg",
+        "name": "אורז לסושי 1 ק״ג סוגת 12 יחידות במארז",
+        "code": "4601"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%90%D7%95%D7%A8%D7%96_%D7%9E%D7%99%D7%A7%D7%A1_1_%D7%A7%D7%B4%D7%92_%D7%A1%D7%95%D7%92%D7%AA_12%D7%99%D7%97%D7%99%D7%93%D7%95%D7%AA_%D7%91%D7%9E%D7%90%D7%A8%D7%96-4626.jpg",
+        "name": "אורז מיקס 1 ק״ג סוגת 12 יחידות במארז",
+        "code": "4626"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%90%D7%95%D7%A8%D7%96_%D7%9E%D7%9C%D7%90_%D7%A1%D7%95%D7%92%D7%AA_1_%D7%A7%D7%B4%D7%92_12%D7%99%D7%97%D7%99%D7%93%D7%95%D7%AA_%D7%91%D7%9E%D7%90%D7%A8%D7%96-4622.jpg",
+        "name": "אורז מלא סוגת 1 ק״ג 12 יחידות במארז",
+        "code": "4622"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%90%D7%95%D7%A8%D7%96_%D7%A2%D7%92%D7%95%D7%9C_1_%D7%A7%D7%B4%D7%92_%D7%A1%D7%95%D7%92%D7%AA-4621.jpg",
+        "name": "אורז עגול 1 ק״ג סוגת",
+        "code": "4621"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%9E%D7%A8%D7%A7_%D7%91%D7%95%D7%9C_1_%D7%A7%D7%B4%D7%92_%D7%91%D7%98%D7%A2%D7%9D_%D7%A2%D7%95%D7%A3-1669.jpg",
+        "name": "מרק בול 1 ק״ג בטעם עוף",
+        "code": "1669"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%9E%D7%A8%D7%A7_%D7%91%D7%95%D7%9C_%D7%91%D7%A6%D7%9C_1_%D7%A7%D7%B4%D7%92_%D7%90%D7%A1%D7%9D-1703.jpg",
+        "name": "מרק בול בצל 1 ק״ג אסם",
+        "code": "1703"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%9E%D7%A8%D7%A7_%D7%93%D7%92%D7%A9_%D7%AA%D7%9C%D7%9E%D7%94-1680.jpg",
+        "name": "מרק דגש תלמה",
+        "code": "1680"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%9E%D7%A8%D7%A7_%D7%A4%D7%98%D7%A8%D7%99%D7%95%D7%AA_1_%D7%A7%D7%B4%D7%92_%D7%91%D7%95%D7%9C_%D7%90%D7%A1%D7%9D-1723.jpg",
+        "name": "מרק פטריות 1 ק״ג בול אסם",
+        "code": "1723"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%A6%D7%99%D7%A8_%D7%91%D7%A7%D7%A8_1_%D7%A7%D7%B4%D7%92_%D7%A7%D7%A0%D7%95%D7%A8-581.jpg",
+        "name": "ציר בקר 1 ק״ג קנור",
+        "code": "581"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%A6%D7%99%D7%A8_%D7%A2%D7%95%D7%A3_1_%D7%A7%D7%B4%D7%92_%D7%A7%D7%A0%D7%95%D7%A8-581.jpg",
+        "name": "ציר עוף 1 ק״ג קנור",
+        "code": "581"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%A7%D7%A8%D7%95%D7%98%D7%95%D7%A0%D7%99%D7%9D_1_%D7%A7%D7%B4%D7%92_%D7%90%D7%A1%D7%9D-440.jpg",
+        "name": "קרוטונים 1 ק״ג אסם",
+        "code": "440"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%A7%D7%A8%D7%95%D7%98%D7%95%D7%A0%D7%99%D7%9D_4.8_%D7%A7%D7%B4%D7%92_%D7%91%D7%A7%D7%A8%D7%98%D7%95%D7%9F_%D7%93%D7%95%D7%99%D7%93%D7%95%D7%91%D7%99%D7%A5_44030-.jpg",
+        "name": "קרוטונים 4.8 ק״ג בקרטון דוידוביץ",
+        "code": "44030"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%A9%D7%95%D7%A7%D7%95_10_%D7%A7%D7%B4%D7%92_%D7%91%D7%93%D7%9C%D7%99-836.jpg",
+        "name": "שוקו 10 ק״ג בדלי",
+        "code": "836"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%A9%D7%95%D7%A7%D7%95%D7%9C%D7%98%D7%94_1_%D7%A7%D7%B4%D7%92-95171.jpg",
+        "name": "שוקולטה 1 ק״ג",
+        "code": "95171"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%A9%D7%A7%D7%93%D7%99_%D7%9E%D7%A8%D7%A7_8_%D7%A7%D7%B4%D7%92_%D7%91%D7%A7%D7%A8%D7%98%D7%95%D7%9F_%D7%93%D7%95%D7%99%D7%93%D7%95%D7%91%D7%99%D7%A5-2705.jpg",
+        "name": "שקדי מרק 8 ק״ג בקרטון דוידוביץ",
+        "code": "2705"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%96%D7%99%D7%99%D7%AA%D7%95%D7%9C%D7%94_3.8_%D7%9C%D7%99%D7%98%D7%A8-1872.jpg",
+        "name": "זייתולה 3.8 ליטר",
+        "code": "1872"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%A9%D7%9E%D7%9F_1_%D7%9C%D7%99%D7%98%D7%A8_15_%D7%99%D7%97%D7%99%D7%93%D7%95%D7%AA_%D7%A7%D7%A0%D7%95%D7%9C%D7%94-19235.jpg",
+        "name": "שמן 1 ליטר 15 יחידות קנולה",
+        "code": "19235"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%A9%D7%9E%D7%9F_%D7%96%D7%99%D7%AA_3.8_%D7%9C%D7%99%D7%98%D7%A8_%D7%90%D7%99%D7%A8%D7%95%D7%A4%D7%94-1881.jpg",
+        "name": "שמן זית 3.8 ליטר אירופה",
+        "code": "1881"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%A9%D7%9E%D7%9F_%D7%96%D7%99%D7%AA_3.8_%D7%9C%D7%99%D7%98%D7%A8_%D7%A1%D7%91%D7%90_%D7%97%D7%91%D7%99%D7%91-8610.jpg",
+        "name": "שמן זית 3.8 ליטר סבא חביב",
+        "code": "8610"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%A9%D7%9E%D7%9F_%D7%96%D7%99%D7%AA_3.8_%D7%9C%D7%99%D7%98%D7%A8_%D7%A9%D7%91%D7%99-8732.jpg",
+        "name": "שמן זית 3.8 ליטר שבי",
+        "code": "8732"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%A9%D7%9E%D7%9F_%D7%97%D7%9E%D7%A0%D7%99%D7%95%D7%AA_15_%D7%9C%D7%99%D7%98%D7%A8_%D7%91%D7%A7%D7%A8%D7%98%D7%95%D7%9F-8003.jpg",
+        "name": "שמן חמניות 15 ליטר בקרטון",
+        "code": "8003"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%A9%D7%9E%D7%9F_%D7%9E%D7%94%D7%95%D7%9C_4_%D7%9C%D7%99%D7%98%D7%A8_%D7%91%D7%98%D7%A2%D7%9D_%D7%96%D7%99%D7%AA-802.jpg",
+        "name": "שמן מהול 4 ליטר בטעם זית",
+        "code": "802"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%A9%D7%9E%D7%9F_%D7%A1%D7%95%D7%99%D7%94_4.9_%D7%9C%D7%99%D7%98%D7%A8-110.jpg",
+        "name": "שמן סויה 4.9 ליטר",
+        "code": "110"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%A9%D7%9E%D7%9F_%D7%A1%D7%95%D7%99%D7%94_16_%D7%A7%D7%B4%D7%92_%D7%A1%D7%95%D7%9C%D7%91%D7%A8-8002.jpg",
+        "name": "שמן סויה 16 ק״ג סולבר",
+        "code": "8002"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%A9%D7%9E%D7%9F_%D7%A1%D7%95%D7%99%D7%94_16_%D7%A7%D7%B4%D7%92_%D7%A2%D7%A5_%D7%94%D7%96%D7%99%D7%AA-800.jpg",
+        "name": "שמן סויה 16 ק״ג עץ הזית",
+        "code": "800"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%A9%D7%9E%D7%9F_%D7%A7%D7%A0%D7%95%D7%9C%D7%94_15_%D7%9C%D7%99%D7%98%D7%A8_%D7%91%D7%A7%D7%A8%D7%98%D7%95%D7%9F-9261.jpg",
+        "name": "שמן קנולה 15 ליטר בקרטון",
+        "code": "9261"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%A9%D7%9E%D7%9F_%D7%A9%D7%95%D7%9E%D7%A9%D7%95%D7%9D_2_%D7%9C%D7%99%D7%98%D7%A8_%D7%98%D7%94%D7%95%D7%A8-1961.jpg",
+        "name": "שמן שומשום 2 ליטר טהור",
+        "code": "1961"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%A9%D7%9E%D7%9F_%D7%A9%D7%95%D7%9E%D7%A9%D7%95%D7%9D_2_%D7%9C%D7%99%D7%98%D7%A8_%D7%9E%D7%A2%D7%95%D7%A8%D7%91-19600.jpg",
+        "name": "שמן שומשום 2 ליטר מעורב",
+        "code": "19600"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%A9%D7%9E%D7%9F_%D7%AA%D7%99%D7%A8%D7%A1_%D7%90%D7%9E%D7%99%D7%AA%D7%99_3_%D7%9C%D7%99%D7%98%D7%A8_%D7%A9%D7%95%D7%A7%D7%97%D7%94-8611.jpg",
+        "name": "שמן תירס אמיתי 3 ליטר שוקחה",
+        "code": "8611"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%AA%D7%A8%D7%A1%D7%99%D7%A1_%D7%A9%D7%9E%D7%9F_%D7%A7%D7%A0%D7%95%D7%9C%D7%94_%D7%A4%D7%90%D7%9D-5782.jpg",
+        "name": "תרסיס שמן קנולה פאם",
+        "code": "5782"
+    },
+    {
+        "imgSrc": "https://www.y-shabi.co.il/Uploads/%D7%A8%D7%90%D7%A9%D7%99/%D7%AA%D7%A8%D7%A1%D7%99%D7%A1_%D7%A9%D7%9E%D7%9F_%D7%A7%D7%A0%D7%95%D7%9C%D7%94_%D7%AA%D7%95%D7%9E%D7%A8-5784.jpg",
+        "name": "תרסיס שמן קנולה תומר",
+        "code": "5784"
+    }
+]

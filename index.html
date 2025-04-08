@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="en" dir="rtl">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>קטלוגים</title>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"
+        integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=" crossorigin="anonymous"></script>
+    <script src="script.js"></script>
+
+</head>
+
+<body>
+    <div class="header">
+        <h1>קטלוגים</h1>
+        <button id="extract">ייצא לאקסל</button>
+
+        <select id="supplier">
+            <option value="choose" disabled selected>בחר ספק</option>
+            <option value="mehaliZahav">מיכלי זהב</option>
+            <option value="arelArizot">אראל אריזות</option>
+            <option value="lebelData">לאבל</option>
+            <option value="foodorData">פודור</option>
+            <option value="ahimCohenData">אחים כהן</option>
+            <option value="shabiData">י.שבי</option>
+            <option value="almandosData">אלמנדוס</option>
+            <option value="mysterData">מייסטר</option>
+            <option value="polivaData">פוליבה</option>
+        </select>
+
+        <input id="search" type="text" placeholder="חפש מוצר">
+        <input id="globalSearch" type="text" placeholder="חפש בכל הספקים">
+        <hr>
+        <h3>כמות מוצרים: <span id="productsLength"></span></h3>
+    </div>
+
+    <div class="container">
+    </div>
+</body>
+
+<style>
+    body {
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        margin: 0;
+        padding: 0;
+    }
+
+    h1 {
+        text-shadow: -2px 2px 5px #aaa;
+        margin-bottom: 20px;
+    }
+
+    .header {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        margin-bottom: 20px;
+        padding: 10px;
+    }
+
+    #extract,
+    #supplier,
+    #globalSearch,
+    #search {
+        width: 80%;
+        max-width: 400px;
+        height: 40px;
+        text-align: center;
+        border: 1px solid #aaa;
+        border-radius: 10px;
+        color: white;
+        font-size: 18px;
+        background-color: rgb(71, 71, 202);
+        margin-bottom: 15px;
+    }
+
+    #supplier {
+        font-size: 18px;
+    }
+
+    .container {
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+        padding: 10px;
+        gap: 15px;
+        justify-content: center;
+        margin: 10px;
+        box-shadow: -2px 2px 5px #aaa;
+    }
+
+    .info {
+        border: 1px solid #aaa;
+        border-radius: 10px;
+        box-shadow: -2px 2px 10px #aaa;
+        text-align: center;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        padding: 10px;
+        background-color: white;
+    }
+
+    .images {
+        width: 150px;
+        height: 150px;
+        margin-bottom: 10px;
+    }
+
+    .dataInfo {
+        width: 100%;
+        padding: 10px;
+    }
+
+    h2 {
+        color: rgb(80, 161, 0);
+        text-shadow: -2px 2px 10px #aaa;
+    }
+
+    h3 {
+        margin-bottom: 10px;
+        font-size: 16px;
+    }
+
+    h4 {
+        margin-bottom: 10px;
+        font-size: 14px;
+        color: #666;
+    }
+
+    p {
+        font-size: 14px;
+        margin: 5px 0;
+    }
+
+    .dataInfo p {
+        text-align: center;
+    }
+</style>
+
+</html>
